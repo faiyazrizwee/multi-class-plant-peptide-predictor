@@ -1,0 +1,110 @@
+================================================================================
+ FULL TRAINING WORKFLOW FOR MULTI-CLASS PEPTIDE PREDICTOR
+================================================================================
+
+This document outlines the complete end-to-end methodology used to build the 
+peptide classification models, from data preparation to final model evaluation.
+
+--------------------------------------------------------------------------------
+STEP 1: DATA GATHERING & PREPARATION
+--------------------------------------------------------------------------------
+1. Data Sources: Peptide sequences belonging to 9 distinct classes were compiled.
+   The 9 classes are: 
+   CLE, Cyclotides, Defensins, LTPs, PSKs, RALFs, Snakins, Thionins, Other
+
+2. Data Capping (Downsampling):
+   To prevent massive class imbalance, any family that contained more than 500 
+   sequences was randomly downsampled to exactly 500 sequences. 
+   *Note: Snakins were exempted from this downsampling if they had fewer sequences,
+   preserving all available data for rare families.*
+
+--------------------------------------------------------------------------------
+STEP 2: HOMOLOGY REDUCTION & DATA SPLITTING (80/20)
+--------------------------------------------------------------------------------
+To ensure that the model truly learns peptide features rather than just memorizing
+highly similar sequences, a stringent Homology-Based Split was performed:
+
+1. CD-HIT Clustering: 
+   Sequences within each family were clustered using the CD-HIT algorithm with a 
+   stringent threshold of 50% sequence identity. This grouped highly similar 
+   sequences into the same cluster.
+
+2. Cluster-Level Splitting:
+   An 80/20 (Train/Test) split was performed at the **Cluster Level**, NOT at 
+   the sequence level. Entire clusters were assigned to either the Train set or 
+   the Test set. 
+   
+   *Why this matters: This guarantees that no sequence in the Test set shares 
+   more than 50% similarity with any sequence in the Training set. It provides a 
+   highly rigorous evaluation of the model's ability to generalize to novel, 
+   unseen peptides.*
+
+--------------------------------------------------------------------------------
+STEP 3: FEATURE EXTRACTION
+--------------------------------------------------------------------------------
+For classical Machine Learning algorithms, raw amino acid sequences were 
+converted into numerical features:
+
+1. AAC (Amino Acid Composition): 
+   Calculates the frequency of all 20 standard amino acids in the sequence. 
+   (20 features)
+   
+2. DPC (Dipeptide Composition): 
+   Calculates the frequency of all possible pairs of adjacent amino acids (e.g., 
+   AA, AC, AD... YY). 
+   (400 features)
+
+Total Features per sequence = 420.
+
+--------------------------------------------------------------------------------
+STEP 4: CLASSICAL MACHINE LEARNING TRAINING
+--------------------------------------------------------------------------------
+1. Preprocessing:
+   - All 420 features were standardized (mean=0, variance=1) using `StandardScaler`.
+   - String labels (e.g., 'CLE') were converted to integers using `LabelEncoder`.
+   - To handle any remaining class imbalances, sample weights and `class_weight='balanced'` 
+     were applied so the model penalized minority-class errors heavily.
+
+2. Model Selection:
+   8 distinct machine learning architectures were trained on the dataset:
+   - Random Forest
+   - Extra Trees
+   - Logistic Regression
+   - Support Vector Machine (SVM)
+   - Multi-Layer Perceptron (MLP Neural Net)
+   - XGBoost
+   - LightGBM
+   - CatBoost
+
+3. Evaluation Metrics:
+   Models were evaluated on the strict 20% test set using multiple metrics:
+   Accuracy, Precision, Recall, F1_Macro, F1_Weighted, MCC, and ROC_AUC.
+
+4. Results:
+   LightGBM emerged as the best performing classical model, achieving ~87% 
+   Accuracy and ~85% F1_Macro score. The model, scaler, and encoder were 
+   saved as `.pkl` files. Confusion matrices and top 20 Feature Importance 
+   plots were generated to interpret the model.
+
+--------------------------------------------------------------------------------
+STEP 5: PROTEIN LANGUAGE MODEL (PLM) FINE-TUNING
+--------------------------------------------------------------------------------
+To compare classical ML against modern deep learning, a state-of-the-art 
+Protein Language Model was also fine-tuned:
+
+1. Architecture: Evolutionary Scale Modeling (ESM-2) 8M parameter model.
+2. Fine-tuning: A classification head was added on top of the ESM-2 transformer, 
+   and the model was fine-tuned on the Training set.
+3. Results: On this specific task and dataset, the PLM significantly underperformed 
+   the classical LightGBM model (achieving only ~45% accuracy). This is likely 
+   because classical AAC/DPC features are exceptionally strong descriptors for 
+   peptide family classification compared to raw embedding fine-tuning on a 
+   limited dataset size.
+
+--------------------------------------------------------------------------------
+CONCLUSION
+--------------------------------------------------------------------------------
+The LightGBM model utilizing AAC + DPC features proved to be the most robust, 
+accurate, and lightweight model. Because of the strict 50% CD-HIT cluster 
+splitting strategy, we can be highly confident that its ~87% accuracy represents 
+true generalization ability on unseen plant peptides.

@@ -1,0 +1,502 @@
+Accession	Source Database	Name	Tax ID	Tax Name	Length	Entry Accession	Matches
+A0A0N7H9Z1	unreviewed	Cyclotide	214053	Viola tricolor	118	IPR005535	83..113
+A0A0N7H9Z2	unreviewed	Cyclotide	214053	Viola tricolor	117	IPR005535	74..100
+A0A0N9XQD2	unreviewed	Cyclotide	214053	Viola tricolor	119	IPR005535	83..113
+A0A0N9XU39	unreviewed	Cyclotide	214053	Viola tricolor	115	IPR005535	86..114
+A0A0N9Y173	unreviewed	Cyclotide	214053	Viola tricolor	163	IPR005535	70..99
+A0A0N9YG86	unreviewed	Cyclotide	214053	Viola tricolor	119	IPR005535	85..114
+A0A0N9YKR6	unreviewed	Cyclotide	214053	Viola tricolor	114	IPR005535	82..110
+A0A0N9YLE5	unreviewed	Cyclotide	214053	Viola tricolor	118	IPR005535	85..114
+A0A0N9YQG6	unreviewed	Cyclotide	214053	Viola tricolor	116	IPR005535	82..112
+A0A0S1RG75	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	74	IPR005535	1..30
+A0A0S1RG88	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	132	IPR005535	30..58
+A0A0S1RG98	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	122	IPR005535	26..55
+A0A0S1RGA2	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	131	IPR005535	29..57
+A0A0S1RGB4	unreviewed	Albumin 1	43366	Clitoria ternatea	76	IPR005535	24..54
+A0A0S1RQC5	unreviewed	Albumin 1	43366	Clitoria ternatea	72	IPR005535	24..52
+A0A0S1RQE3	unreviewed	Albumin 1	43366	Clitoria ternatea	75	IPR005535	25..53
+A0A0S1RQE4	unreviewed	Cyclotide	43366	Clitoria ternatea	67	IPR005535	24..53
+A0A0S1RQE7	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	74	IPR005535	11..41
+A0A0S1RQG0	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	101	IPR005535	29..58
+A0A0S1RQG3	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	77	IPR005535	16..44
+A0A0S1RQH5	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	129	IPR005535	27..55
+A0A0S1RQI0	unreviewed	Albumin 1	43366	Clitoria ternatea	71	IPR005535	16..46
+A0A0S1RQI1	unreviewed	Albumin 1	43366	Clitoria ternatea	50	IPR005535	10..39
+A0A0S1RQI2	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	133	IPR005535	29..58
+A0A0S1RQJ1	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	130	IPR005535	26..56
+A0A0S1RQJ6	unreviewed	Albumin 1	43366	Clitoria ternatea	80	IPR005535	24..53
+A0A0S1RQJ9	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	77	IPR005535	16..44
+A0A0S1RQK5	unreviewed	Albumin 1	43366	Clitoria ternatea	65	IPR005535	27..55
+A0A0S1RQL4	unreviewed	Albumin 1	43366	Clitoria ternatea	85	IPR005535	37..67
+A0A0S1RQL6	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	125	IPR005535	30..60
+A0A0S1RQN3	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	100	IPR005535	23..52
+A0A0S1RQQ2	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	106	IPR005535	30..58
+A0A0S1RQR7	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	105	IPR005535	28..54
+A0A0S1RQT7	unreviewed	Albumin 1	43366	Clitoria ternatea	81	IPR005535	24..52
+A0A0S1RQV0	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	130	IPR005535	26..56
+A0A0S1RQW4	unreviewed	Albumin 1	43366	Clitoria ternatea	78	IPR005535	29..57
+A0A0S1RRJ2	unreviewed	Albumin 1	43366	Clitoria ternatea	78	IPR005535	28..56
+A0A0S1RRK7	unreviewed	Albumin 1	43366	Clitoria ternatea	77	IPR005535	16..46
+A0A0S1RRY1	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	110	IPR005535	7..36
+A0A0S1RRZ5	unreviewed	Albumin 1	43366	Clitoria ternatea	75	IPR005535	29..58
+A0A0S1RRZ9	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	131	IPR005535	26..56
+A0A0S1RS10	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	131	IPR005535	26..56
+A0A0S1RS14	unreviewed	Albumin 1	43366	Clitoria ternatea	79	IPR005535	29..59
+A0A0S1RS29	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	124	IPR005535	29..59
+A0A0S1RSG8	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	80	IPR005535	17..47
+A0A0S1RSI4	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	100	IPR005535	29..57
+A0A0S1RSJ8	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	119	IPR005535	15..45
+A0A0S1RSV1	unreviewed	Albumin 1	43366	Clitoria ternatea	74	IPR005535	27..53
+A0A0S1RSZ6	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	123	IPR005535	29..58
+A0A0S1RU96	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	123	IPR005535	29..58
+A0A0S1RUB2	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	133	IPR005535	29..58
+A0A0S1RUC8	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	105	IPR005535	27..56
+A0A126TQ85	unreviewed	Cliotide T13	43366	Clitoria ternatea	61	IPR005535	26..55
+A0A126TQ98	unreviewed	Cliotide T26	43366	Clitoria ternatea	44	IPR005535	10..39
+A0A126TQA4	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	103	IPR005535	29..59
+A0A126TQH9	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	123	IPR005535	26..56
+A0A126TQI7	unreviewed	Cliotide T32	43366	Clitoria ternatea	68	IPR005535	16..44
+A0A126TQJ6	unreviewed	Cliotide T42	43366	Clitoria ternatea	68	IPR005535	28..54
+A0A126TQJ8	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	131	IPR005535	29..57
+A0A126TQK6	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	106	IPR005535	29..59
+A0A126TQK7	unreviewed	Cliotide T52	43366	Clitoria ternatea	47	IPR005535	30..47
+A0A126TQL5	unreviewed	Cliotide T37	43366	Clitoria ternatea	72	IPR005535	28..54
+A0A126TQN2	unreviewed	Cliotide T47	43366	Clitoria ternatea	48	IPR005535	1..29
+A0A126TQT8	unreviewed	Cliotide T24	43366	Clitoria ternatea	54	IPR005535	14..42
+A0A126TQU4	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	80	IPR005535	17..47
+A0A126TQV2	unreviewed	Cliotide T44	43366	Clitoria ternatea	75	IPR005535	27..55
+A0A126TRE7	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	112	IPR005535	29..58
+A0A126TRF4	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	100	IPR005535	27..56
+A0A126TRG2	unreviewed	Cliotide T40	43366	Clitoria ternatea	58	IPR005535	26..56
+A0A126TRH8	unreviewed	Cliotide T23	43366	Clitoria ternatea	61	IPR005535	7..37
+A0A126TRJ4	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	88	IPR005535	12..40
+A0A126TRJ9	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	125	IPR005535	28..58
+A0A126TRK9	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	127	IPR005535	30..58
+A0A126TRL0	unreviewed	Cliotide T31	43366	Clitoria ternatea	65	IPR005535	27..56
+A0A126TRL7	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	97	IPR005535	29..58
+A0A126TRL9	unreviewed	Cyclotide	43366	Clitoria ternatea	70	IPR005535	28..57
+A0A126TRM4	unreviewed	Cliotide T48	43366	Clitoria ternatea	35	IPR005535	1..26
+A0A126TRM8	unreviewed	Cliotide T51	43366	Clitoria ternatea	37	IPR005535	14..37
+A0A126TRW4	unreviewed	Cliotide T18	43366	Clitoria ternatea	52	IPR005535	5..33
+A0A126TRX4	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	121	IPR005535	27..56
+A0A126TRY0	unreviewed	Cliotide T39	43366	Clitoria ternatea	88	IPR005535	24..54
+A0A126TRY8	unreviewed	Cliotide T49	43366	Clitoria ternatea	39	IPR005535	14..39
+A0A126TS67	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	130	IPR005535	29..57
+A0A126TS76	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	84	IPR005535	1..30
+A0A126TS81	unreviewed	Cliotide T45	43366	Clitoria ternatea	76	IPR005535	29..57
+A0A1B3TN87	unreviewed	Parigidin-br2	96266	Palicourea rigida	82	IPR005535	46..75
+A0A1B3TNB3	unreviewed	Hyla-br1	1895898	Pombalia lanata	109	IPR005535	75..105
+A0A1D6MXH4	unreviewed	Uncharacterized protein	4577	Zea mays	84	IPR005535	51..84
+A0A1E5UQA3	unreviewed	Uncharacterized protein	888268	Dichanthelium oligosanthes	69	IPR005535	41..63
+A0A1E5UXR7	unreviewed	Uncharacterized protein	888268	Dichanthelium oligosanthes	67	IPR005535	39..61
+A0A4U6VVE5	unreviewed	Cyclotide	4556	Setaria viridis	82	IPR005535	53..82
+A0A4V8GZR4	unreviewed	Rivi3	1343662	Rinorea virgata	29	IPR005535	1..29
+A0A7G5F389	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	122	IPR005535	26..56
+A0A7G5F390	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	118	IPR005535	26..56
+A0A7G5F391	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	100	IPR005535	9..38
+A0A7G5F392	unreviewed	Cyclotide	43366	Clitoria ternatea	69	IPR005535	29..57
+A0A7G5F393	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	125	IPR005535	31..60
+A0A7G5F395	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	88	IPR005535	7..35
+A0A7G5F396	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	131	IPR005535	29..57
+A0A7G5F397	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	137	IPR005535	35..63
+A0A7G5F398	unreviewed	Cyclotide	43366	Clitoria ternatea	70	IPR005535	29..58
+A0A7G5F399	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	74	IPR005535	5..35
+A0A7G5F3A1	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	64	IPR005535	1..28
+A0A7G5F3A2	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	83	IPR005535	1..28
+A0A7G5F3A3	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	106	IPR005535	29..58
+A0A7G5F3A4	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	91	IPR005535	1..24
+A0A7G5F3A8	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	148	IPR005535	53..81
+A0A7G5F3A9	unreviewed	Cyclotide	43366	Clitoria ternatea	81	IPR005535	41..71
+A0A7G5F3B0	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	99	IPR005535	3..32
+A0A7G5F3B1	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	89	IPR005535	1..25
+A0A7G5F3B2	unreviewed	Cyclotide	43366	Clitoria ternatea	68	IPR005535	30..59
+A0A7G5F3B3	unreviewed	Cyclotide	43366	Clitoria ternatea	51	IPR005535	27..51
+A0A7G5F3B5	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	105	IPR005535	33..62
+A0A7G5F3B6	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	131	IPR005535	29..58
+A0A7G5F3B8	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	101	IPR005535	29..58
+A0A7G5F3B9	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	118	IPR005535	25..53
+A0A7G5F3C0	unreviewed	Cyclotide	43366	Clitoria ternatea	64	IPR005535	29..59
+A0A7G5F3C1	unreviewed	Cyclotide	43366	Clitoria ternatea	87	IPR005535	55..84
+A0A7G5F3C2	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	120	IPR005535	59..87
+A0A7G5F3C3	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	108	IPR005535	25..54
+A0A7G5F3C4	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	99	IPR005535	5..34
+A0A7G5F3C5	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	99	IPR005535	5..34
+A0A7G5F3C6	unreviewed	Cyclotide	43366	Clitoria ternatea	60	IPR005535	26..56
+A0A7G5F3C7	unreviewed	Cyclotide	43366	Clitoria ternatea	84	IPR005535	26..55
+A0A7G5F3C8	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	127	IPR005535	23..53
+A0A7G5F3C9	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	128	IPR005535	26..55
+A0A7G5F3D0	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	126	IPR005535	23..53
+A0A7G5F3D1	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	130	IPR005535	26..56
+A0A7G5F3D2	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	130	IPR005535	26..56
+A0A7G5F3D3	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	122	IPR005535	26..55
+A0A7G5F3D4	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	129	IPR005535	27..55
+A0A7G5F3D5	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	158	IPR005535	56..85
+A0A7G5F3D6	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	90	IPR005535	25..56
+A0A7G5F3D7	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	117	IPR005535	26..56
+A0A7G5F3D8	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	96	IPR005535	29..59
+A0A7G5F3D9	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	125	IPR005535	30..60
+A0A7G5F3E0	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	125	IPR005535	30..60
+A0A7G5F3E4	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	136	IPR005535	43..71
+A0A7G5F3E5	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	120	IPR005535	28..54
+A0A7G5F3E7	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	119	IPR005535	26..55
+A0A7G5F3E8	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	70	IPR005535	7..36
+A0A7G5F3E9	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	107	IPR005535	30..60
+A0A7G5F3F0	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	88	IPR005535	10..40
+A0A7G5F3F1	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	88	IPR005535	11..41
+A0A7G5F3F2	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	108	IPR005535	30..60
+A0A7G5F3F3	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	85	IPR005535	11..41
+A0A7G5F3F4	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	104	IPR005535	30..60
+A0A7G5F3F5	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	113	IPR005535	51..80
+A0A7G5F3F6	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	117	IPR005535	23..52
+A0A7G5F3F8	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	145	IPR005535	51..80
+A0A7G5F3F9	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	134	IPR005535	41..71
+A0A804N5S8	unreviewed	Uncharacterized protein	4577	Zea mays	83	IPR005535	54..83
+A0A8I3AZW0	unreviewed	Acyclotide ribe 31	85259	Rinorea bengalensis	29	IPR005535	1..29
+A0A8K0HN61	unreviewed	Uncharacterized protein	2594499	Rhamnella rubrinervis	87	IPR005535	61..87
+A0A8K0HPH9	unreviewed	Uncharacterized protein	2594499	Rhamnella rubrinervis	87	IPR005535	61..87
+A0A8K0HPI6	unreviewed	Uncharacterized protein	2594499	Rhamnella rubrinervis	297	IPR005535	62..84
+A0A8K0HQ11	unreviewed	Uncharacterized protein	2594499	Rhamnella rubrinervis	109	IPR005535	62..74
+A0A8K0HQN9	unreviewed	Uncharacterized protein	2594499	Rhamnella rubrinervis	110	IPR005535	62..82
+A0A8K0HR05	unreviewed	Uncharacterized protein	2594499	Rhamnella rubrinervis	81	IPR005535	55..81
+A0A8K0HT72	unreviewed	Uncharacterized protein	2594499	Rhamnella rubrinervis	87	IPR005535	61..87
+A0A8K0HTN1	unreviewed	Uncharacterized protein	2594499	Rhamnella rubrinervis	87	IPR005535	61..87
+A0A8K0MR09	unreviewed	Uncharacterized protein	2594499	Rhamnella rubrinervis	87	IPR005535	61..87
+A0A8K0MR77	unreviewed	Uncharacterized protein	2594499	Rhamnella rubrinervis	87	IPR005535	61..87
+A0A8K0MRR5	unreviewed	Uncharacterized protein	2594499	Rhamnella rubrinervis	87	IPR005535	61..87
+A0A8K0MS69	unreviewed	Uncharacterized protein	2594499	Rhamnella rubrinervis	87	IPR005535	61..87
+A0ABC8VJ15	unreviewed	Uncharacterized protein	240449	Urochloa decumbens	83	IPR005535	55..83
+A0ABC8WBM9	unreviewed	Uncharacterized protein	240449	Urochloa decumbens	84	IPR005535	56..84
+A0ABC9GFQ4	unreviewed	Uncharacterized protein	240449	Urochloa decumbens	83	IPR005535	55..83
+A5YRZ3	unreviewed	Cyclotide 6	349688	Viola baoshanensis	153	IPR005535	67..95,121..149
+A5YRZ4	unreviewed	Cyclotide 7	349688	Viola baoshanensis	207	IPR005535	67..95,121..149,175..203
+A9P3Q6	unreviewed	Cyclotide protein Mra20	316498	Melicytus ramiflorus	94	IPR005535	59..89
+A9P3Q7	unreviewed	Cyclotide protein Mra21	316498	Melicytus ramiflorus	92	IPR005535	57..87
+A9P3Q8	unreviewed	Cyclotide protein Mra14	316498	Melicytus ramiflorus	179	IPR005535	60..90,144..174
+A9P3Q9	unreviewed	Cyclotide protein Mra16	316498	Melicytus ramiflorus	144	IPR005535	60..90
+A9P3R0	unreviewed	Cyclotide protein Mra17	316498	Melicytus ramiflorus	144	IPR005535	60..90
+A9P3R1	unreviewed	Cyclotide protein Mra19	316498	Melicytus ramiflorus	178	IPR005535	60..90,144..173
+A9P3R2	unreviewed	Cyclotide protein Mra18	316498	Melicytus ramiflorus	178	IPR005535	60..90,144..173
+A9P3R3	unreviewed	Cyclotide protein Mra25	316498	Melicytus ramiflorus	94	IPR005535	61..90
+A9P3R4	unreviewed	Cyclotide protein Mra24	316498	Melicytus ramiflorus	93	IPR005535	61..89
+A9P3R5	unreviewed	Cyclotide protein Mra22	316498	Melicytus ramiflorus	98	IPR005535	64..93
+A9P3R6	unreviewed	Cyclotide protein Mra23	316498	Melicytus ramiflorus	95	IPR005535	61..91
+A9P3R7	unreviewed	Cyclotide protein Mra26	316498	Melicytus ramiflorus	93	IPR005535	61..89
+A9P3R8	unreviewed	Cyclotide protein Mra28	316498	Melicytus ramiflorus	178	IPR005535	60..90,144..173
+A9P3R9	unreviewed	Cyclotide protein Mra29	316498	Melicytus ramiflorus	178	IPR005535	60..90,144..173
+A9P3S0	unreviewed	Cyclotide protein Mra30	316498	Melicytus ramiflorus	178	IPR005535	60..90,144..173
+A9P3S1	reviewed	Cyclotides mra4/mra5	316498	Melicytus ramiflorus	198	IPR005535	80..110,164..193
+A9P3S2	unreviewed	Cyclotide protein Mra13	316498	Melicytus ramiflorus	100	IPR005535	72..100
+B1NRQ8	reviewed	Cyclotide vibi-E	214529	Viola biflora	105	IPR005535	70..100
+B1NRQ9	reviewed	Cyclotide vibi-I	214529	Viola biflora	103	IPR005535	70..99
+B1NRR0	reviewed	Cyclotide vibi-J	214529	Viola biflora	105	IPR005535	72..102
+B1NRR1	reviewed	Cyclotide vibi-K	214529	Viola biflora	103	IPR005535	70..99
+B1NRR2	reviewed	Cycloviolacin-O9	214529	Viola biflora	103	IPR005535	70..99
+B1NRR3	reviewed	Cyclotide vitri-A	214529	Viola biflora	103	IPR005535	70..99
+B3EWF1	reviewed	Parigidin-br1	96266	Palicourea rigida	32	IPR005535	3..32
+B3EWH5	reviewed	Cyclotide phyb-A	4102	Petunia hybrida	79	IPR005535	39..73
+B3EWH6	reviewed	Acyclotide phyb-K	4102	Petunia hybrida	74	IPR005535	45..73
+B3EWH7	reviewed	Acyclotide phyb-M	4102	Petunia hybrida	32	IPR005535	2..29
+B5B3X7	unreviewed	Cyclotide 1a	349688	Viola baoshanensis	113	IPR005535	80..109
+B5B3X9	unreviewed	Cyclotide 1c	349688	Viola baoshanensis	113	IPR005535	80..109
+B5B3Y0	unreviewed	Cyclotide 2a	349688	Viola baoshanensis	113	IPR005535	80..109
+B5B3Y2	unreviewed	Cyclotide 2c	349688	Viola baoshanensis	113	IPR005535	80..109
+B5B3Y3	unreviewed	Cyclotide 2d	349688	Viola baoshanensis	113	IPR005535	80..109
+B5B3Y4	unreviewed	Cyclotide 2e	349688	Viola baoshanensis	114	IPR005535	80..110
+B5B3Y5	unreviewed	Cyclotide 3a	349688	Viola baoshanensis	111	IPR005535	81..107
+B5B3Y6	unreviewed	Cyclotide 3b	349688	Viola baoshanensis	116	IPR005535	83..112
+B5B3Y8	unreviewed	Cyclotide 3d	349688	Viola baoshanensis	115	IPR005535	82..111
+B5B3Z0	unreviewed	Cyclotide 4b	349688	Viola baoshanensis	120	IPR005535	85..115
+B5B3Z1	unreviewed	Cyclotide 4c	349688	Viola baoshanensis	120	IPR005535	85..115
+B5B3Z3	unreviewed	Cyclotide 6b	349688	Viola baoshanensis	153	IPR005535	67..95,121..149
+B5B3Z4	unreviewed	Cyclotide 6c	349688	Viola baoshanensis	153	IPR005535	67..95,121..149
+B5B3Z5	unreviewed	Cyclotide 6d	349688	Viola baoshanensis	153	IPR005535	67..95,121..149
+B5B3Z6	unreviewed	Cyclotide 7b	349688	Viola baoshanensis	207	IPR005535	67..95,121..149,175..203
+B5B3Z7	unreviewed	Cyclotide 7c	349688	Viola baoshanensis	207	IPR005535	67..95,121..149,175..203
+B6E615	unreviewed	Cycloviolacin O8	97441	Viola odorata	207	IPR005535	67..95,121..149,175..203
+B6E616	unreviewed	Cyclotide protein Mra13	316498	Melicytus ramiflorus	99	IPR005535	72..99
+B6E617	unreviewed	Tricyclon A protein	214053	Viola tricolor	288	IPR005535	64..90,160..186,256..282
+B6E618	unreviewed	Kalata B1 protein	60225	Oldenlandia affinis	121	IPR005535	89..117
+B6E619	unreviewed	Kalata B7 protein	60225	Oldenlandia affinis	107	IPR005535	76..104
+B6E620	unreviewed	Kalata B6 and kalata B3 protein	60225	Oldenlandia affinis	155	IPR005535	67..96,122..151
+B6E621	unreviewed	Kalata B2 protein	60225	Oldenlandia affinis	210	IPR005535	67..95,121..149,175..203
+B6SPP3	unreviewed	Uncharacterized protein	4577	Zea mays	83	IPR005535	50..83
+B6TZ23	unreviewed	Uncharacterized protein	4577	Zea mays	100	IPR005535	34..64
+B6U6T7	unreviewed	Uncharacterized protein	4577	Zea mays	83	IPR005535	49..83
+C0HJS0	reviewed	Cliotide T13	43366	Clitoria ternatea	31	IPR005535	2..31
+C0HJS1	reviewed	Cliotide T14	43366	Clitoria ternatea	31	IPR005535	2..31
+C0HJS2	reviewed	Cliotide T15	43366	Clitoria ternatea	29	IPR005535	1..29
+C0HJS3	reviewed	Cliotide T16	43366	Clitoria ternatea	30	IPR005535	1..30
+C0HJS5	reviewed	Cliotide T18	43366	Clitoria ternatea	29	IPR005535	1..29
+C0HJS6	reviewed	Cliotide T19	43366	Clitoria ternatea	30	IPR005535	1..30
+C0HJS7	reviewed	Cliotide T20	43366	Clitoria ternatea	30	IPR005535	1..30
+C0HJS8	reviewed	Cliotide T21	43366	Clitoria ternatea	28	IPR005535	2..28
+C0HK28	reviewed	Cyclotide mela-1	212268	Melicytus latifolius	29	IPR005535	1..29
+C0HK29	reviewed	Cyclotide mela-2	212268	Melicytus latifolius	29	IPR005535	1..29
+C0HK30	reviewed	Cyclotide mela-3	212268	Melicytus latifolius	29	IPR005535	1..29
+C0HK31	reviewed	Cyclotide mela-4	212268	Melicytus latifolius	29	IPR005535	1..29
+C0HK32	reviewed	Cyclotide mela-5	212268	Melicytus latifolius	30	IPR005535	1..30
+C0HK33	reviewed	Cyclotide mela-6	212268	Melicytus latifolius	29	IPR005535	1..29
+C0HK34	reviewed	Cyclotide mela-7	212268	Melicytus latifolius	29	IPR005535	1..29
+C0HK35	reviewed	Cyclotide mech-1	453349	Melicytus chathamicus	30	IPR005535	1..30
+C0HK36	reviewed	Cyclotide mech-2	453349	Melicytus chathamicus	29	IPR005535	1..29
+C0HK37	reviewed	Cyclotide mech-3	453349	Melicytus chathamicus	29	IPR005535	1..29
+C0HK38	reviewed	Cyclotide mech-4	453349	Melicytus chathamicus	31	IPR005535	1..31
+C0HK39	reviewed	Cyclotide mech-5	453349	Melicytus chathamicus	31	IPR005535	1..31
+C0HK40	reviewed	Cyclotide mech-6	453349	Melicytus chathamicus	31	IPR005535	1..31
+C0HK41	reviewed	Cyclotide mech-7	453349	Melicytus chathamicus	29	IPR005535	1..29
+C0HKF9	reviewed	Cliotide T6	43366	Clitoria ternatea	30	IPR005535	1..30
+C0HKG0	reviewed	Cliotide T9	43366	Clitoria ternatea	117	IPR005535	26..55
+C0HKG1	reviewed	Cliotide T3	43366	Clitoria ternatea	127	IPR005535	25..53
+C0HKG2	reviewed	Cliotide T10	43366	Clitoria ternatea	31	IPR005535	1..31
+C0HKG3	reviewed	Cliotide T11	43366	Clitoria ternatea	31	IPR005535	1..31
+C0HKH0	reviewed	Chassatide C9	510798	Chassalia chartacea	30	IPR005535	1..30
+C0HKH1	reviewed	Chassatide C6	510798	Chassalia chartacea	31	IPR005535	1..31
+C0HKH2	reviewed	Chassatide C5	510798	Chassalia chartacea	31	IPR005535	1..31
+C0HKH3	reviewed	Chassatide C3	510798	Chassalia chartacea	30	IPR005535	1..30
+C0HKH4	reviewed	Chassatide C1	510798	Chassalia chartacea	29	IPR005535	3..29
+C0HKH5	reviewed	Chassatide C12	510798	Chassalia chartacea	28	IPR005535	3..25
+C0HKH6	reviewed	Chassatide C11	510798	Chassalia chartacea	28	IPR005535	1..28
+C0HKH7	reviewed	Chassatide C10	510798	Chassalia chartacea	29	IPR005535	4..26
+C0HKH8	reviewed	Circulin A	510798	Chassalia chartacea	30	IPR005535	1..30
+C0HKI2	reviewed	Cyclotide ltri-A	1977830	Leonia triandra	28	IPR005535	1..28
+C0HKI3	reviewed	Cyclotide mang-A	491104	Melicytus angustifolius	29	IPR005535	1..29
+C0HKI4	reviewed	Cyclotide mden-A	491106	Melicytus dentatus	29	IPR005535	1..29
+C0HKI5	reviewed	Cyclotide mden-B	491106	Melicytus dentatus	29	IPR005535	1..29
+C0HKI6	reviewed	Cyclotide mden-C	491106	Melicytus dentatus	29	IPR005535	1..29
+C0HKI7	reviewed	Cyclotide mden-E	491106	Melicytus dentatus	30	IPR005535	1..30
+C0HKI8	reviewed	Cyclotide mden-F	491106	Melicytus dentatus	29	IPR005535	1..29
+C0HKI9	reviewed	Cyclotide mden-G	491106	Melicytus dentatus	30	IPR005535	1..30
+C0HKJ0	reviewed	Cyclotide mden-H	491106	Melicytus dentatus	29	IPR005535	1..29
+C0HKJ1	reviewed	Cyclotide mden-I	491106	Melicytus dentatus	30	IPR005535	1..30
+C0HKJ2	reviewed	Cyclotide mden-J	491106	Melicytus dentatus	31	IPR005535	1..31
+C0HKJ3	reviewed	Cyclotide mden-K	491106	Melicytus dentatus	31	IPR005535	1..31
+C0HKJ4	reviewed	Cyclotide mden-L	491106	Melicytus dentatus	31	IPR005535	1..31
+C0HKJ5	reviewed	Cyclotide mden-M	491106	Melicytus dentatus	31	IPR005535	1..31
+C0HKJ6	reviewed	Cyclotide mden-N	491106	Melicytus dentatus	31	IPR005535	1..31
+C0HKJ7	reviewed	Cyclotide mobo-A	450841	Melicytus obovatus	29	IPR005535	1..29
+C0HKJ8	reviewed	Cyclotide mobo-B	450841	Melicytus obovatus	29	IPR005535	1..29
+C0HKJ9	reviewed	Cyclotide pali-A	59596	Palicourea guianensis	31	IPR005535	1..31
+C0HKK0	reviewed	Cyclotide vdif-A	591085	Viola diffusa	30	IPR005535	1..30
+C0HKK1	reviewed	Cyclotide vinc-A	591090	Viola inconspicua	29	IPR005535	1..29
+C0HKK2	reviewed	Cyclotide vinc-B	591090	Viola inconspicua	31	IPR005535	2..31
+C0HKK3	reviewed	Cyclotide vpub-A	97445	Viola pubescens	31	IPR005535	1..31
+C0HKK4	reviewed	Cyclotide vpub-B	97445	Viola pubescens	31	IPR005535	1..31
+C0HKK5	reviewed	Cyclotide vpub-C	97445	Viola pubescens	31	IPR005535	1..31
+C0HL14	reviewed	Cyclotide vodo I1	97441	Viola odorata	28	IPR005535	1..28
+C0HL15	reviewed	Cyclotide vodo I2	97441	Viola odorata	28	IPR005535	1..28
+C0HL16	reviewed	Cyclotide vodo I3	97441	Viola odorata	28	IPR005535	1..28
+C0HL20	reviewed	Cyclotide psybry A	980682	Psychotria brachyceras	31	IPR005535	4..31
+C0HL21	reviewed	Cyclotide psybry B	980682	Psychotria brachyceras	31	IPR005535	4..31
+C0HL22	reviewed	Cyclotide psybry C	980682	Psychotria brachyceras	31	IPR005535	4..31
+C0HL23	reviewed	Cyclotide cycloviolacin O17	980682	Psychotria brachyceras	30	IPR005535	1..30
+C0HL24	reviewed	Cyclotide psyleio A	980682	Psychotria brachyceras	29	IPR005535	1..29
+C0HL25	reviewed	Cyclotide psyleio B	980682	Psychotria brachyceras	29	IPR005535	2..29
+C0HL26	reviewed	Cyclotide psyleio D	980682	Psychotria brachyceras	29	IPR005535	1..29
+C0HL27	reviewed	Cyclotide psyleio A	2022332	Psychotria leiocarpa	29	IPR005535	1..29
+C0HL28	reviewed	Cyclotide psyleio B	2022332	Psychotria leiocarpa	29	IPR005535	2..29
+C0HL29	reviewed	Cyclotide psyleio C	2022332	Psychotria leiocarpa	29	IPR005535	2..29
+C0HL30	reviewed	Cyclotide psyleio D	2022332	Psychotria leiocarpa	29	IPR005535	1..29
+C0HL31	reviewed	Cyclotide psyleio E	2022332	Psychotria leiocarpa	30	IPR005535	2..30
+C0HL32	reviewed	Cyclotide mra1	316498	Melicytus ramiflorus	29	IPR005535	1..29
+C0HL33	reviewed	Cyclotide mra2	316498	Melicytus ramiflorus	29	IPR005535	1..29
+C0HL34	reviewed	Cyclotide mra3	316498	Melicytus ramiflorus	31	IPR005535	1..31
+C0HL35	reviewed	Cyclotide glopa A	685569	Gloeospermum pauciflorum	32	IPR005535	3..32
+C0HL36	reviewed	Cyclotide glopa B	685569	Gloeospermum pauciflorum	32	IPR005535	3..32
+C0HL37	reviewed	Cyclotide glopa C	685569	Gloeospermum pauciflorum	31	IPR005535	2..31
+C0HLN7	reviewed	Cyclotide hyen-C	212266	Pigea enneasperma	30	IPR005535	1..30
+C0HLN8	reviewed	Cyclotide hyen-D	212266	Pigea enneasperma	30	IPR005535	1..30
+C0HLN9	reviewed	Cyclotide hyen-E	212266	Pigea enneasperma	30	IPR005535	1..30
+C0HLP0	reviewed	Cyclotide hyen-F	212266	Pigea enneasperma	30	IPR005535	1..30
+C0HLP1	reviewed	Cyclotide hyen-G	212266	Pigea enneasperma	30	IPR005535	1..30
+C0HLP2	reviewed	Cyclotide hyen-H	212266	Pigea enneasperma	30	IPR005535	1..30
+C0HLP3	reviewed	Cyclotide hyen-I	212266	Pigea enneasperma	31	IPR005535	2..31
+C0HLP4	reviewed	Cyclotide hyen-J	212266	Pigea enneasperma	31	IPR005535	2..31
+C0HLP5	reviewed	Cyclotide hyen-K	212266	Pigea enneasperma	30	IPR005535	1..30
+C0HLP6	reviewed	Cyclotide hyen-L	212266	Pigea enneasperma	30	IPR005535	1..30
+C0HLP7	reviewed	Cyclotide hyen-M	212266	Pigea enneasperma	30	IPR005535	1..30
+C0HLP8	reviewed	Cycloviolacin-O2	212266	Pigea enneasperma	30	IPR005535	1..30
+C5YPK7	unreviewed	Uncharacterized protein	4558	Sorghum bicolor	98	IPR005535	62..93
+D2WPK3	unreviewed	Cyclotide F	685568	Gloeospermum blakeanum	101	IPR005535	68..97
+D2WPK4	unreviewed	Cyclotide A	685568	Gloeospermum blakeanum	104	IPR005535	71..100
+D2WPK5	unreviewed	Cyclotide B	685568	Gloeospermum blakeanum	105	IPR005535	71..101
+D2WPK6	unreviewed	Cyclotide D	685568	Gloeospermum blakeanum	106	IPR005535	73..102
+D2WPK7	unreviewed	Cyclotide G	685568	Gloeospermum blakeanum	102	IPR005535	68..98
+D2WPK8	unreviewed	Cyclotide E	685568	Gloeospermum blakeanum	102	IPR005535	69..98
+D2WPK9	unreviewed	Cyclotide D	685569	Gloeospermum pauciflorum	106	IPR005535	71..101
+D2WPL0	unreviewed	Cyclotide B	685569	Gloeospermum pauciflorum	105	IPR005535	71..101
+D2WPL1	unreviewed	Cyclotide E	685569	Gloeospermum pauciflorum	106	IPR005535	71..101
+D2WPL2	unreviewed	Cyclotide E	685569	Gloeospermum pauciflorum	105	IPR005535	70..100
+D8WS37	unreviewed	Cyclotide Oak6	60225	Oldenlandia affinis	153	IPR005535	62..91,117..146
+D8WS38	unreviewed	Cyclotide Oak7	60225	Oldenlandia affinis	93	IPR005535	59..84
+D8WS39	unreviewed	Cyclotide Oak8	60225	Oldenlandia affinis	141	IPR005535	103..132
+D8WS40	unreviewed	Cyclotide Oak9	60225	Oldenlandia affinis	128	IPR005535	99..128
+D8WS41	unreviewed	Cyclotide Oak10	60225	Oldenlandia affinis	106	IPR005535	71..99
+F8W671	unreviewed	Cyclotide Cter M	43366	Clitoria ternatea	29	IPR005535	1..29
+G1CWH0	reviewed	Cliotide T1	43366	Clitoria ternatea	95	IPR005535	1..30
+G1CWH1	reviewed	Cliotide T2	43366	Clitoria ternatea	132	IPR005535	28..58
+G1CWH2	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	127	IPR005535	25..53
+G1CWH3	reviewed	Cliotide T4	43366	Clitoria ternatea	123	IPR005535	29..58
+G1CWH4	reviewed	Cliotide T5	43366	Clitoria ternatea	95	IPR005535	1..30
+G1CWH5	reviewed	Cliotide T7	43366	Clitoria ternatea	130	IPR005535	26..56
+G1CWH6	reviewed	Cliotide T8	43366	Clitoria ternatea	122	IPR005535	26..55
+G1CWH7	unreviewed	Albumin I chain a domain-containing protein	43366	Clitoria ternatea	117	IPR005535	26..55
+G1CWH8	reviewed	Cliotide T12	43366	Clitoria ternatea	123	IPR005535	29..58
+G9I0X2	unreviewed	Hedyotide B1	462684	Leptopetalum biflorum	107	IPR005535	65..94
+G9I0X3	unreviewed	Hedyotide B2	462684	Leptopetalum biflorum	93	IPR005535	65..93
+I0B6F2	reviewed	Chassatide C2	510798	Chassalia chartacea	77	IPR005535	45..75
+I0B6F3	reviewed	Chassatide C4	510798	Chassalia chartacea	78	IPR005535	44..71
+I0B6F4	reviewed	Chassatide C7	510798	Chassalia chartacea	64	IPR005535	36..64
+I0B6F5	reviewed	Chassatide C8	510798	Chassalia chartacea	75	IPR005535	46..75
+I0B6F7	unreviewed	Cyclotide chassatide C14	510798	Chassalia chartacea	77	IPR005535	45..75
+I0B6F8	unreviewed	Cyclotide chassatide C15	510798	Chassalia chartacea	77	IPR005535	45..75
+I0B6G0	unreviewed	Cyclotide chassatide C17	510798	Chassalia chartacea	75	IPR005535	47..75
+I0B6G1	unreviewed	Cyclotide chassatide C18	510798	Chassalia chartacea	78	IPR005535	45..74
+I0B6G2	reviewed	Chassatide C13	510798	Chassalia chartacea	77	IPR005535	45..75
+I0B6G4	unreviewed	Cyclotide chassatide C16	510798	Chassalia chartacea	77	IPR005535	45..75
+I6QZB1	unreviewed	Cyclotide 2	4102	Petunia hybrida	79	IPR005535	44..73
+I6RZE0	unreviewed	Cyclotide 3	4102	Petunia hybrida	79	IPR005535	44..73
+I6S3T3	unreviewed	Cyclotide 1	4102	Petunia hybrida	79	IPR005535	39..73
+K3ZBA6	unreviewed	Knottin scorpion toxin-like domain-containing protein	4555	Setaria italica	83	IPR005535	54..83
+K3ZBA8	unreviewed	Cyclotide	4555	Setaria italica	82	IPR005535	53..82
+K3ZBC2	unreviewed	Uncharacterized protein	4555	Setaria italica	80	IPR005535	53..80
+K9Y2Z0	unreviewed	Panitide L2	158129	Steinchisma laxum	79	IPR005535	52..79
+K9Y385	unreviewed	Panitide L4	158129	Steinchisma laxum	89	IPR005535	62..89
+K9Y490	unreviewed	Panitide L1	158129	Steinchisma laxum	78	IPR005535	51..78
+K9Y572	unreviewed	Panitide L6	158129	Steinchisma laxum	78	IPR005535	51..78
+M9SZP2	unreviewed	Cyclotide B	97441	Viola odorata	79	IPR005535	46..75
+M9T7B1	unreviewed	Cyclotide C	97441	Viola odorata	102	IPR005535	16..44,70..98
+P0C589	reviewed	Pro-tricyclons	97415	Viola arvensis	204	IPR005535	76..102,171..197
+P56254	reviewed	Kalata-B1	60225	Oldenlandia affinis	124	IPR005535	89..117
+P56871	reviewed	Circulin-A	58431	Chassalia parviflora	30	IPR005535	1..30
+P56872	reviewed	Cyclopsychotride-A	41680	Psychotria longipes	31	IPR005535	1..31
+P56879	reviewed	Circulin-B	58431	Chassalia parviflora	31	IPR005535	1..31
+P58433	reviewed	Cycloviolacin-H1	180952	Viola hederacea	30	IPR005535	1..30
+P58434	reviewed	Cycloviolacin-O2	97441	Viola odorata	30	IPR005535	1..30
+P58435	reviewed	Cycloviolacin-O3	97441	Viola odorata	30	IPR005535	1..30
+P58436	reviewed	Cycloviolacin-O4	97441	Viola odorata	30	IPR005535	1..30
+P58437	reviewed	Cycloviolacin-O5	97441	Viola odorata	30	IPR005535	1..30
+P58438	reviewed	Cycloviolacin-O6	97441	Viola odorata	31	IPR005535	1..31
+P58439	reviewed	Cycloviolacin-O7	97441	Viola odorata	30	IPR005535	1..30
+P58440	reviewed	Cycloviolacin-O8	97441	Viola odorata	118	IPR005535	85..115
+P58441	reviewed	Cycloviolacin-O9	97441	Viola odorata	30	IPR005535	1..30
+P58442	reviewed	Cycloviolacin-O10	97441	Viola odorata	30	IPR005535	1..30
+P58443	reviewed	Cycloviolacin-O11	97441	Viola odorata	118	IPR005535	85..115
+P58445	reviewed	Cyclotide hypa-A	179672	Pombalia parviflora	30	IPR005535	1..30
+P58446	reviewed	Varv peptide A	97415	Viola arvensis	29	IPR005535	1..29
+P58447	reviewed	Varv peptide B	97415	Viola arvensis	30	IPR005535	1..30
+P58448	reviewed	Varv peptide C	97415	Viola arvensis	29	IPR005535	1..29
+P58449	reviewed	Varv peptide D	97415	Viola arvensis	29	IPR005535	1..29
+P58451	reviewed	Varv peptide F	97415	Viola arvensis	29	IPR005535	1..29
+P58452	reviewed	Varv peptide G	97415	Viola arvensis	30	IPR005535	1..30
+P58453	reviewed	Varv peptide H	97415	Viola arvensis	30	IPR005535	1..30
+P58454	reviewed	Kalata-B2	60225	Oldenlandia affinis	210	IPR005535	67..95,121..149,175..203
+P58455	reviewed	Kalata-B3/B6	60225	Oldenlandia affinis	158	IPR005535	67..96,122..151
+P58456	reviewed	Kalata-B5	60225	Oldenlandia affinis	30	IPR005535	1..30
+P58457	reviewed	Kalata-B7	60225	Oldenlandia affinis	111	IPR005535	76..104
+P58458	reviewed	Kalata-S	60225	Oldenlandia affinis	29	IPR005535	1..29
+P82230	reviewed	Cycloviolacin-O1	97441	Viola odorata	30	IPR005535	1..30
+P83835	reviewed	Varv peptide E	97415	Viola arvensis	29	IPR005535	1..29
+P83836	reviewed	Cycloviolacin-O12	97441	Viola odorata	29	IPR005535	1..29
+P83838	reviewed	Vodo peptide N	97441	Viola odorata	29	IPR005535	1..29
+P83839	reviewed	Vodo peptide M	97441	Viola odorata	29	IPR005535	1..29
+P83840	reviewed	Vitri peptide A	97415	Viola arvensis	30	IPR005535	1..30
+P83937	reviewed	Root cyclotide 1	180952	Viola hederacea	30	IPR005535	1..30
+P83938	reviewed	Kalata-B4	60225	Oldenlandia affinis	29	IPR005535	1..29
+P84522	reviewed	Leaf cyclotide 1	180952	Viola hederacea	31	IPR005535	1..31
+P84635	reviewed	Cyclotide vico-A	341256	Viola cotyledon	31	IPR005535	1..31
+P84636	reviewed	Cyclotide vico-B	341256	Viola cotyledon	31	IPR005535	1..31
+P84637	reviewed	Cycloviolin-A	341676	Leonia cymosa	31	IPR005535	1..31
+P84638	reviewed	Cycloviolin-B	341676	Leonia cymosa	28	IPR005535	1..28
+P84639	reviewed	Cycloviolin-C	341676	Leonia cymosa	30	IPR005535	1..30
+P84640	reviewed	Cycloviolin-D	341676	Leonia cymosa	30	IPR005535	1..30
+P84641	reviewed	Circulin-C	58431	Chassalia parviflora	30	IPR005535	1..30
+P84642	reviewed	Circulin-D	58431	Chassalia parviflora	30	IPR005535	1..30
+P84643	reviewed	Circulin-E	58431	Chassalia parviflora	30	IPR005535	1..30
+P84644	reviewed	Circulin-F	58431	Chassalia parviflora	29	IPR005535	1..29
+P84645	reviewed	Palicourein	272141	Palicourea condensata	37	IPR005535	4..37
+P84647	reviewed	Cyclotide Hyfl-A	343459	Hybanthus floribundus	31	IPR005535	1..31
+P84648	reviewed	Cyclotide Hyfl-B	343459	Hybanthus floribundus	32	IPR005535	1..32
+P84649	reviewed	Cyclotide Hyfl-C	343459	Hybanthus floribundus	32	IPR005535	1..32
+P85127	reviewed	Kalata-B9	60225	Oldenlandia affinis	31	IPR005535	3..31
+P85128	reviewed	Kalata-B10	60225	Oldenlandia affinis	30	IPR005535	1..30
+P85129	reviewed	Kalata-B11	60225	Oldenlandia affinis	29	IPR005535	1..29
+P85131	reviewed	Kalata-B13	60225	Oldenlandia affinis	30	IPR005535	1..30
+P85132	reviewed	Kalata-B14	60225	Oldenlandia affinis	30	IPR005535	1..30
+P85133	reviewed	Kalata-B15	60225	Oldenlandia affinis	29	IPR005535	1..29
+P85134	reviewed	Kalata-B16	60225	Oldenlandia affinis	30	IPR005535	1..30
+P85135	reviewed	Kalata-B17	60225	Oldenlandia affinis	30	IPR005535	1..30
+P85175	reviewed	Kalata-B8	60225	Oldenlandia affinis	31	IPR005535	5..31
+P85177	reviewed	Cycloviolacin-O14	97441	Viola odorata	31	IPR005535	2..31
+P85178	reviewed	Cycloviolacin-O15	97441	Viola odorata	29	IPR005535	1..29
+P85179	reviewed	Cycloviolacin-O16	97441	Viola odorata	29	IPR005535	1..28
+P85180	reviewed	Cycloviolacin-O17	97441	Viola odorata	30	IPR005535	1..30
+P85181	reviewed	Cycloviolacin-O18	97441	Viola odorata	30	IPR005535	1..30
+P85182	reviewed	Cycloviolacin-O19	97441	Viola odorata	31	IPR005535	1..31
+P85183	reviewed	Cycloviolacin-O20	97441	Viola odorata	30	IPR005535	1..30
+P85184	reviewed	Cycloviolacin-O21	97441	Viola odorata	29	IPR005535	1..29
+P85185	reviewed	Cycloviolacin-O22	97441	Viola odorata	29	IPR005535	1..29
+P85186	reviewed	Cycloviolacin-O23	97441	Viola odorata	31	IPR005535	1..31
+P85187	reviewed	Cycloviolacin-O24	97441	Viola odorata	30	IPR005535	1..30
+P85188	reviewed	Cycloviolacin-O25	97441	Viola odorata	31	IPR005535	2..31
+P85231	reviewed	Leaf cyclotide 2	180952	Viola hederacea	30	IPR005535	1..30
+P85232	reviewed	Cycloviolacin-H3	180952	Viola hederacea	30	IPR005535	1..30
+P85233	reviewed	Cycloviolacin-H2	180952	Viola hederacea	29	IPR005535	1..29
+P85234	reviewed	Cycloviolacin-H4	180952	Viola hederacea	30	IPR005535	1..30
+P85239	reviewed	Cyclotide vibi-A	214529	Viola biflora	29	IPR005535	1..29
+P85240	reviewed	Cyclotide vibi-B	214529	Viola biflora	29	IPR005535	1..29
+P85241	reviewed	Cyclotide vibi-C	214529	Viola biflora	29	IPR005535	1..29
+P85242	reviewed	Cyclotide vibi-D	214529	Viola biflora	29	IPR005535	1..29
+P85244	reviewed	Cyclotide vibi-F	214529	Viola biflora	31	IPR005535	1..31
+P85245	reviewed	Cyclotide vibi-G	214529	Viola biflora	31	IPR005535	1..31
+P85246	reviewed	Cyclotide vibi-H	214529	Viola biflora	31	IPR005535	1..31
+P85525	reviewed	Cyclotide varv-A	214529	Viola biflora	29	IPR005535	1..29
+P85526	reviewed	Cycloviolacin-O2	214529	Viola biflora	30	IPR005535	1..30
+P86841	reviewed	Cyclotide cter-A	43366	Clitoria ternatea	124	IPR005535	29..59
+P86842	reviewed	Cyclotide cter-B	43366	Clitoria ternatea	135	IPR005535	30..60
+P86843	reviewed	Cyclotide cter-C	43366	Clitoria ternatea	31	IPR005535	1..31
+P86844	reviewed	Cyclotide cter-D	43366	Clitoria ternatea	31	IPR005535	1..31
+P86845	reviewed	Cyclotide cter-E	43366	Clitoria ternatea	31	IPR005535	1..31
+P86846	reviewed	Cyclotide cter-F	43366	Clitoria ternatea	30	IPR005535	1..30
+P86847	reviewed	Cyclotide cter-G	43366	Clitoria ternatea	30	IPR005535	1..30
+P86848	reviewed	Cyclotide cter-H	43366	Clitoria ternatea	30	IPR005535	1..30
+P86849	reviewed	Cliotide T17	43366	Clitoria ternatea	31	IPR005535	1..31
+P86850	reviewed	Cyclotide cter-J	43366	Clitoria ternatea	31	IPR005535	1..31
+P86851	reviewed	Cyclotide cter-K	43366	Clitoria ternatea	29	IPR005535	1..29
+P86852	reviewed	Cyclotide cter-L	43366	Clitoria ternatea	29	IPR005535	1..29
+P86899	reviewed	Cyclotide cter-M	43366	Clitoria ternatea	127	IPR005535	25..53
+P86900	reviewed	Cyclotide cter-N	43366	Clitoria ternatea	29	IPR005535	1..29
+P86901	reviewed	Cyclotide cter-O	43366	Clitoria ternatea	30	IPR005535	1..30
+P86902	reviewed	Cyclotide cter-P	43366	Clitoria ternatea	30	IPR005535	1..30
+P86903	reviewed	Cyclotide cter-R	43366	Clitoria ternatea	31	IPR005535	1..31
+P86904	reviewed	Cyclotide cter-Q	43366	Clitoria ternatea	30	IPR005535	1..30
+Q09PF9	unreviewed	Cyclotide 4	349688	Viola baoshanensis	120	IPR005535	85..115
+Q09PG0	unreviewed	Cyclotide 3	349688	Viola baoshanensis	115	IPR005535	83..112
+Q09PG1	unreviewed	Cyclotide 2	349688	Viola baoshanensis	113	IPR005535	80..109
+Q09PG2	unreviewed	Cyclotide 1	349688	Viola baoshanensis	113	IPR005535	80..109
+Q2HY54	reviewed	Violacin-A	97441	Viola odorata	106	IPR005535	82..106
+Q30C63	unreviewed	Cyclotide F	351361	Hybanthus floribundus subsp. floribundus	35	IPR005535	1..30
+Q30C64	unreviewed	Cyclotide E	351361	Hybanthus floribundus subsp. floribundus	86	IPR005535	53..81
+Q30C65	unreviewed	Cyclotide D	351361	Hybanthus floribundus subsp. floribundus	106	IPR005535	73..102
+Q30C98	unreviewed	Cyclotide B	349241	Hybanthus epacroides	31	IPR005535	1..27
+Q30C99	unreviewed	Cyclotide A	349241	Hybanthus epacroides	30	IPR005535	1..26
+Q30CA1	unreviewed	Cyclotide A	212266	Pigea enneasperma	33	IPR005535	1..28
+Q30CA2	unreviewed	Cyclotide A	349240	Hybanthus debilissimus	28	IPR005535	1..23
+Q30CA3	unreviewed	Cyclotide A	349239	Hybanthus calycinus	30	IPR005535	1..26
+Q30CA4	unreviewed	Cyclotide A	351362	Hybanthus vernonii subsp. vernonii	27	IPR005535	1..27
+Q30CA5	unreviewed	Cyclotide A	349237	Pigea stellarioides	31	IPR005535	1..27
+Q30CA6	unreviewed	Cyclotide B	349236	Pigea monopetala	35	IPR005535	1..25
+Q30CA7	unreviewed	Cyclotide A	349236	Pigea monopetala	32	IPR005535	1..27
+Q30CA8	unreviewed	Cyclotide P	351361	Hybanthus floribundus subsp. floribundus	27	IPR005535	1..23
+Q30CA9	unreviewed	Cyclotide O	351361	Hybanthus floribundus subsp. floribundus	31	IPR005535	1..27
+Q30CB0	unreviewed	Cyclotide N	351361	Hybanthus floribundus subsp. floribundus	31	IPR005535	1..27
+Q30CB1	unreviewed	Cyclotide M	351361	Hybanthus floribundus subsp. floribundus	102	IPR005535	70..97
+Q30CB2	unreviewed	Cyclotide L	351361	Hybanthus floribundus subsp. floribundus	105	IPR005535	72..101
+Q30CB3	unreviewed	Cyclotide K	351361	Hybanthus floribundus subsp. floribundus	105	IPR005535	72..101
+Q30CB4	unreviewed	Cyclotide J	351361	Hybanthus floribundus subsp. floribundus	90	IPR005535	58..85
+Q30CB5	unreviewed	Cyclotide I	351361	Hybanthus floribundus subsp. floribundus	102	IPR005535	69..98
+Q30CB6	unreviewed	Cyclotide H	351361	Hybanthus floribundus subsp. floribundus	31	IPR005535	1..27
+Q30CB7	unreviewed	Cyclotide G	351361	Hybanthus floribundus subsp. floribundus	30	IPR005535	1..26
+Q5USN7	reviewed	Varv peptide A/Kalata-B1	97441	Viola odorata	207	IPR005535	67..95,121..149,175..203
+Q5USN8	reviewed	Cycloviolacin-O13	97441	Viola odorata	115	IPR005535	82..111
+S5CLG2	unreviewed	Caripe 2 cyclotide	77880	Carapichea ipecacuanha	79	IPR005535	45..75
+S5CTC2	unreviewed	Caripe 2 cyclotide	77880	Carapichea ipecacuanha	82	IPR005535	45..75

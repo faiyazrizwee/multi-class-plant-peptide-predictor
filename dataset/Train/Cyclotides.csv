@@ -1,0 +1,213 @@
+Entry,Entry Name,Protein names,Gene Names,Organism,Length,Sequence,Protein existence,Reviewed,Annotation,Is_Predicted,Label
+C0HLP8,CYO2_PIGEN,Cycloviolacin-O2 (Cyclotide hyen-O2),,Pigea enneasperma (Spade flower) (Afrohybanthus enneaspermus),30,GIPCGESCVWIPCISSAIGCSCKSKVCYRN,Evidence at protein level,reviewed,4.0,False,Cyclotides
+P58436,CYO4_VIOOD,Cycloviolacin-O4,,Viola odorata (Sweet violet),30,GIPCGESCVWIPCISSAIGCSCKNKVCYRN,Evidence at protein level,reviewed,4.0,False,Cyclotides
+P82230,CYO1_VIOOD,Cycloviolacin-O1,,Viola odorata (Sweet violet),30,GIPCAESCVYIPCTVTALLGCSCSNRVCYN,Evidence at protein level,reviewed,4.0,False,Cyclotides
+C0HL23,CYO17_PSYBR,Cyclotide cycloviolacin O17,,Psychotria brachyceras,30,GIPCGESCVWIPCISAAIGCSCKNKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P58435,CYO3_VIOOD,Cycloviolacin-O3,,Viola odorata (Sweet violet),30,GIPCGESCVWIPCLTSAIGCSCKSKVCYRN,Evidence at protein level,reviewed,4.0,False,Cyclotides
+P58442,CYO10_VIOOD,Cycloviolacin-O10,,Viola odorata (Sweet violet),30,GIPCGESCVYIPCLTSAVGCSCKSKVCYRN,Evidence at protein level,reviewed,4.0,False,Cyclotides
+P85177,CYO14_VIOOD,Cycloviolacin-O14,,Viola odorata (Sweet violet),31,GSIPACGESCFKGKCYTPGCSCSKYPLCAKN,Evidence at protein level,reviewed,4.0,False,Cyclotides
+C0HKH8,CIRA_CHACT,Circulin A (Cyclotide cir A),,Chassalia chartacea (Chassalia curviflora),30,GIPCGESCVWIPCISAALGCSCKNKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HLP7,CYHEM_PIGEN,Cyclotide hyen-M,,Pigea enneasperma (Spade flower) (Afrohybanthus enneaspermus),30,SIPCAESCVWIPCTVTALLGCSCSDKVCYN,Evidence at protein level,reviewed,4.0,False,Cyclotides
+P85175,KAB8_OLDAF,Kalata-B8,,Oldenlandia affinis (Blue diamond flower) (Hedyotis affinis),31,GSVLNCGETCLLGTCYTTGCTCNKYRVCTKD,Evidence at protein level,reviewed,4.0,False,Cyclotides
+P83937,VHR1_VIOHE,Root cyclotide 1 (Vhr1),,Viola hederacea (Australian violet),30,GIPCAESCVWIPCTVTALLGCSCSNKVCYN,Evidence at protein level,reviewed,4.0,False,Cyclotides
+C0HLN8,CYHED_PIGEN,Cyclotide hyen-D,,Pigea enneasperma (Spade flower) (Afrohybanthus enneaspermus),30,GFPCGESCVYIPCFTAAIGCSCKSKVCYKN,Evidence at protein level,reviewed,4.0,False,Cyclotides
+P85231,VHL2_VIOHE,Leaf cyclotide 2 (Vhl-2),,Viola hederacea (Australian violet),30,GLPVCGETCFTGTCYTNGCTCDPWPVCTRN,Evidence at protein level,reviewed,4.0,False,Cyclotides
+P84643,CIRE_CHAPA,Circulin-E (CIRE),,Chassalia parviflora,30,KIPCGESCVWIPCLTSVFNCKCENKVCYHD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P84641,CIRC_CHAPA,Circulin-C (CIRC),,Chassalia parviflora,30,GIPCGESCVFIPCITSVAGCSCKSKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P84642,CIRD_CHAPA,Circulin-D (CIRD),,Chassalia parviflora,30,KIPCGESCVWIPCVTSIFNCKCENKVCYHD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P84644,CIRF_CHAPA,Circulin-F (CIRF),,Chassalia parviflora,29,AIPCGESCVWIPCISAAIGCSCKNKVCYR,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P56879,CIRB_CHAPA,Circulin-B (CIRB),,Chassalia parviflora,31,GVIPCGESCVFIPCISTLLGCSCKNKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85135,KAB17_OLDAF,Kalata-B17,,Oldenlandia affinis (Blue diamond flower) (Hedyotis affinis),30,GIPCAESCVYIPCTITALLGCKCKDQVCYN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85134,KAB16_OLDAF,Kalata-B16,,Oldenlandia affinis (Blue diamond flower) (Hedyotis affinis),30,GIPCAESCVYIPCTITALLGCKCQDKVCYD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P58458,KABS_OLDAF,Kalata-S,,Oldenlandia affinis (Blue diamond flower) (Hedyotis affinis),29,GLPVCGETCVGGTCNTPGCSCSWPVCTRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85129,KAB11_OLDAF,Kalata-B11,,Oldenlandia affinis (Blue diamond flower) (Hedyotis affinis),29,GLPVCGETCFGGTCNTPGCSCTDPICTRD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HJS1,CYC14_CLITE,Cliotide T14 (Cyclotide cT14),,Clitoria ternatea (Butterfly pea),31,DTIPCGESCVWIPCISSILGCSCKDKVCYHN,Evidence at protein level,reviewed,4.0,False,Cyclotides
+P85128,KAB10_OLDAF,Kalata-B10,,Oldenlandia affinis (Blue diamond flower) (Hedyotis affinis),30,GLPTCGETCFGGTCNTPGCSCSSWPICTRD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85131,KAB13_OLDAF,Kalata-B13,,Oldenlandia affinis (Blue diamond flower) (Hedyotis affinis),30,GLPVCGETCFGGTCNTPGCACDPWPVCTRD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85132,KAB14_OLDAF,Kalata-B14,,Oldenlandia affinis (Blue diamond flower) (Hedyotis affinis),30,GLPVCGESCFGGTCNTPGCACDPWPVCTRD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85133,KAB15_OLDAF,Kalata-B15,,Oldenlandia affinis (Blue diamond flower) (Hedyotis affinis),29,GLPVCGESCFGGSCYTPGCSCTWPICTRD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HJS0,CYC13_CLITE,Cliotide T13 (Cyclotide cT13),,Clitoria ternatea (Butterfly pea),31,DTTPCGESCVWIPCVSSIVGCSCQNKVCYQN,Evidence at protein level,reviewed,4.0,False,Cyclotides
+P58456,KAB5_OLDAF,Kalata-B5,,Oldenlandia affinis (Blue diamond flower) (Hedyotis affinis),30,GTPCGESCVYIPCISGVIGCSCTDKVCYLN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P83938,KAB4_OLDAF,Kalata-B4,,Oldenlandia affinis (Blue diamond flower) (Hedyotis affinis),29,GLPVCGETCVGGTCNTPGCTCSWPVCTRD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HKH6,CYC11_CHACT,Chassatide C11 (Cyclotide chaC11),,Chassalia chartacea (Chassalia curviflora),28,IPCGESCVWIPCISGMFGCSCKDKVCYS,Evidence at protein level,reviewed,4.0,False,Cyclotides
+C0HJS7,CYC20_CLITE,Cliotide T20 (Cyclotide cT20),,Clitoria ternatea (Butterfly pea),30,GSAIRCGESCLLGKCYTPGCTCDRPICKKN,Evidence at protein level,reviewed,4.0,False,Cyclotides
+C0HJS6,CYC19_CLITE,Cliotide T19 (Cyclotide cT19),,Clitoria ternatea (Butterfly pea),30,GSVIKCGESCLLGKCYTPGCTCSRPICKKN,Evidence at protein level,reviewed,4.0,False,Cyclotides
+P58441,CYO9_VIOOD,Cycloviolacin-O9,,Viola odorata (Sweet violet),30,GIPCGESCVWIPCLTSAVGCSCKSKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P58438,CYO6_VIOOD,Cycloviolacin-O6,,Viola odorata (Sweet violet),31,GTLPCGESCVWIPCISAAVGCSCKSKVCYKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85184,CYO21_VIOOD,Cycloviolacin-O21,,Viola odorata (Sweet violet),29,GLPVCGETCVTGSCYTPGCTCSWPVCTRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P83836,CYO12_VIOOD,Cycloviolacin-O12,,Viola odorata (Sweet violet),29,GLPICGETCVGGTCNTPGCSCSWPVCTRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85232,CYH3_VIOHE,Cycloviolacin-H3,,Viola hederacea (Australian violet),30,GLPVCGETCFGGTCNTPGCICDPWPVCTRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85234,CYH4_VIOHE,Cycloviolacin-H4,,Viola hederacea (Australian violet),30,GIPCAESCVWIPCTVTALLGCSCSNNVCYN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85186,CYO23_VIOOD,Cycloviolacin-O23,,Viola odorata (Sweet violet),31,GLPTCGETCFGGTCNTPGCTCDSSWPICTHN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85187,CYO24_VIOOD,Cycloviolacin-O24,,Viola odorata (Sweet violet),30,GLPTCGETCFGGTCNTPGCTCDPWPVCTHN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P58433,CYH1_VIOHE,Cycloviolacin-H1,,Viola hederacea (Australian violet),30,GIPCGESCVYIPCLTSAIGCSCKSKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P58437,CYO5_VIOOD,Cycloviolacin-O5,,Viola odorata (Sweet violet),30,GTPCGESCVWIPCISSAVGCSCKNKVCYKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P58439,CYO7_VIOOD,Cycloviolacin-O7,,Viola odorata (Sweet violet),30,SIPCGESCVWIPCTITALAGCKCKSKVCYN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85183,CYO20_VIOOD,Cycloviolacin-O20,,Viola odorata (Sweet violet),30,GIPCGESCVWIPCLTSAIGCSCKSKVCYRD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85233,CYH2_VIOHE,Cycloviolacin-H2,,Viola hederacea (Australian violet),29,SAIACGESCVYIPCFIPGCSCRNRVCYLN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85178,CYO15_VIOOD,Cycloviolacin-O15,,Viola odorata (Sweet violet),29,GLVPCGETCFTGKCYTPGCSCSYPICKKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85181,CYO18_VIOOD,Cycloviolacin-O18,,Viola odorata (Sweet violet),30,GIPCGESCVYIPCTVTALAGCKCKSKVCYN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85182,CYO19_VIOOD,Cycloviolacin-O19,,Viola odorata (Sweet violet),31,GTLPCGESCVWIPCISSVVGCSCKSKVCYKD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85185,CYO22_VIOOD,Cycloviolacin-O22,,Viola odorata (Sweet violet),29,GLPICGETCVGGTCNTPGCTCSWPVCTRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85179,CYO16_VIOOD,Cycloviolacin-O16,,Viola odorata (Sweet violet),29,GLPCGETCFTGKCYTPGCSCSYPICKKIN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85188,CYO25_VIOOD,Cycloviolacin-O25,,Viola odorata (Sweet violet),31,DIFCGETCAFIPCITHVPGTCSCKSKVCYFN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85127,KAB9_OLDAF,Kalata-B9,,Oldenlandia affinis (Blue diamond flower) (Hedyotis affinis),31,GSVFNCGETCVLGTCYTPGCTCNTYRVCTKD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HL30,CYPLD_PSYLE,Cyclotide psyleio D,,Psychotria leiocarpa,29,GLPVCGESCFGGTCNTPGCSCTWPVCTRD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HL27,CYPLA_PSYLE,Cyclotide psyleio A,,Psychotria leiocarpa,29,GLPICGETCFTGTCNTPGCSCTYPICTRD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HLP0,CYHEF_PIGEN,Cyclotide hyen-F,,Pigea enneasperma (Spade flower) (Afrohybanthus enneaspermus),30,GLPCGESCVYIPCISTVLGCSCSNKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HLP1,CYHEG_PIGEN,Cyclotide hyen-G,,Pigea enneasperma (Spade flower) (Afrohybanthus enneaspermus),30,GLPCGESCVYIPCISTVLGCSCSNKVCYRD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HLP3,CYHEI_PIGEN,Cyclotide hyen-I,,Pigea enneasperma (Spade flower) (Afrohybanthus enneaspermus),31,GSTPCGESCVWIPCISGIVGCSCSNKVCYMD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P58445,HYPAA_POMPR,Cyclotide hypa-A,,Pombalia parviflora (Violetilla) (Hybanthus parviflorus),30,GIPCAESCVYIPCTITALLGCSCKNKVCYN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85244,CYVF_VIOBI,Cyclotide vibi-F,,Viola biflora (Yellow wood violet),31,GTIPCGESCVFIPCLTSALGCSCKSKVCYKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HK40,CYMC6_MELCT,Cyclotide mech-6,,Melicytus chathamicus (Chatham Island mahoe) (Hymenanthera latifolia var. chathamica),31,GVIPCGESCVFIPCISSVVGCTCKNKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85245,CYVG_VIOBI,Cyclotide vibi-G,,Viola biflora (Yellow wood violet),31,GTFPCGESCVFIPCLTSAIGCSCKSKVCYKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HK41,CYMC7_MELCT,Cyclotide mech-7,,Melicytus chathamicus (Chatham Island mahoe) (Hymenanthera latifolia var. chathamica),29,GIPICGETCTIGTCNTPGCTCSWPVCTRD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85246,CYVH_VIOBI,Cyclotide vibi-H,,Viola biflora (Yellow wood violet),31,GLLPCAESCVYIPCLTTVIGCSCKSKVCYKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85241,CYVC_VIOBI,Cyclotide vibi-C,,Viola biflora (Yellow wood violet),29,GLPVCGETCAFGSCYTPGCSCSWPVCTRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HLP2,CYHEH_PIGEN,Cyclotide hyen-H,,Pigea enneasperma (Spade flower) (Afrohybanthus enneaspermus),30,KIPCGESCVYIPCISSVLGCSCSNKVCYKD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HLP4,CYHEJ_PIGEN,Cyclotide hyen-J,,Pigea enneasperma (Spade flower) (Afrohybanthus enneaspermus),31,GSVPCGESCVWIPCITSIAGCSCSNKVCYMD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85239,CYVA_VIOBI,Cyclotide vibi-A,,Viola biflora (Yellow wood violet),29,GLPVCGETCFGGTCNTPGCSCSYPICTRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HK39,CYMC5_MELCT,Cyclotide mech-5,,Melicytus chathamicus (Chatham Island mahoe) (Hymenanthera latifolia var. chathamica),31,GVIPCGESCVFIPCISSVVGCTCKNKVCYRD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HLP5,CYHEK_PIGEN,Cyclotide hyen-K,,Pigea enneasperma (Spade flower) (Afrohybanthus enneaspermus),30,GIPCGESCIFIPCITTVVGCSCSNKVCYDN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HLP6,CYHEL_PIGEN,Cyclotide hyen-L,,Pigea enneasperma (Spade flower) (Afrohybanthus enneaspermus),30,GIPCAESCVYIPCTVTALLGCSCSDKVCYN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HK38,CYMC4_MELCT,Cyclotide mech-4,,Melicytus chathamicus (Chatham Island mahoe) (Hymenanthera latifolia var. chathamica),31,GSIPCGESCVYIPCISSLLGCSCKSKVCYKD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HK35,CYMC1_MELCT,Cyclotide mech-1,,Melicytus chathamicus (Chatham Island mahoe) (Hymenanthera latifolia var. chathamica),30,GVIPCGESCVFIPCINKKKCSCKNKVCYRD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HLN9,CYHEE_PIGEN,Cyclotide hyen-E,,Pigea enneasperma (Spade flower) (Afrohybanthus enneaspermus),30,GVPCGESCVYIPCFTGIINCSCRDKVCYNN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HL32,CYMR1_MELRA,Cyclotide mra1,,Melicytus ramiflorus (Whitey wood),29,GIPCAESCVYIPCLTSIGCSCKSKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+I0B6F2,CYC2_CHACT,Chassatide C2 (Cyclotide chaC2),,Chassalia chartacea (Chassalia curviflora),77,MAKFANYLMLFLLVASLVMLEAQSSDTIKVPDLGKRLLMNRDPNGIPCAESCVWIPCTITALMGCSCKNNVCYNNEL,Evidence at protein level,reviewed,4.0,False,Cyclotides
+C0HL33,CYMR2_MELRA,Cyclotide mra2,,Melicytus ramiflorus (Whitey wood),29,GIPCAESCVYIPCLTSAGCSCKSKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HL34,CYMR3_MELRA,Cyclotide mra3,,Melicytus ramiflorus (Whitey wood),31,GSIPCGESCVYIPCITSIVGCSCKSKVCYKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HJS3,CYC16_CLITE,Cliotide T16 (Cyclotide cT16),,Clitoria ternatea (Butterfly pea),30,GSVIGCGETCLRGRCYTPGCTCDHGICKKN,Evidence at protein level,reviewed,4.0,False,Cyclotides
+P86849,CYC17_CLITE,Cliotide T17 (Cyclotide cT17) (Cyclotide cter-I),,Clitoria ternatea (Butterfly pea),31,GTVPCGESCVFIPCITGIAGCSCKNKVCYLN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P86848,CYCH_CLITE,Cyclotide cter-H,,Clitoria ternatea (Butterfly pea),30,GLPCGESCVFIPCITTVVGCSCKNKVCYND,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P86850,CYCJ_CLITE,Cyclotide cter-J,,Clitoria ternatea (Butterfly pea),31,GTVPCGESCVFIPCITGIAGCSCKNKVCYID,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P86843,CYCC_CLITE,Cyclotide cter-C,,Clitoria ternatea (Butterfly pea),31,GVPCAESCVWIPCTVTALLGCSCKDKVCYLD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P86851,CYCK_CLITE,Cyclotide cter-K,,Clitoria ternatea (Butterfly pea),29,HEPCGESCVFIPCITTVVGCSCKNKVCYN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P86852,CYCL_CLITE,Cyclotide cter-L,,Clitoria ternatea (Butterfly pea),29,HEPCGESCVFIPCITTVVGCSCKNKVCYD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P86845,CYCE_CLITE,Cyclotide cter-E,,Clitoria ternatea (Butterfly pea),31,GIPCAESCVWIPCTVTALLGCSCKDKVCYLD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P86847,CYCG_CLITE,Cyclotide cter-G,,Clitoria ternatea (Butterfly pea),30,GLPCGESCVFIPCITTVVGCSCKNKVCYNN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P86901,CYCO_CLITE,Cyclotide cter-O,,Clitoria ternatea (Butterfly pea),30,GIPCGESCVFIPCITGIAGCSCKSKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P86902,CYCP_CLITE,Cyclotide cter-P,,Clitoria ternatea (Butterfly pea),30,GIPCGESCVFIPCITAAIGCSCKSKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P86904,CYCQ_CLITE,Cyclotide cter-Q,,Clitoria ternatea (Butterfly pea),30,GIPCGESCVFIPCISTVIGCSCKNKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P86846,CYCF_CLITE,Cyclotide cter-F,,Clitoria ternatea (Butterfly pea),30,GIPCGESCVFIPCISSVVGCSCKSKVCYLD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P86903,CYCR_CLITE,Cyclotide cter-R,,Clitoria ternatea (Butterfly pea),31,GIPCGESCVFIPCTVTALLGCSCKDKVCYKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P86844,CYCD_CLITE,Cyclotide cter-D,,Clitoria ternatea (Butterfly pea),31,GIPCAESCVWIPCTVTALLGCSCKDKVCYLN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HKH0,CYC9_CHACT,Chassatide C9 (Cyclotide chaC9),,Chassalia chartacea (Chassalia curviflora),30,GIPCGESCVFIPCVTTVIGCSCKDKVCYNN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HKH1,CYC6_CHACT,Chassatide C6 (Cyclotide chaC6),,Chassalia chartacea (Chassalia curviflora),31,GVIPCGESCVFIPCISSVIGCSCKNKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HJS5,CYC18_CLITE,Cliotide T18 (Cyclotide cT18),,Clitoria ternatea (Butterfly pea),29,GLPICGETCFTGTCYTPGCTCSYPVCKKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HKH2,CYC5_CHACT,Chassatide C5 (Cyclotide chaC5),,Chassalia chartacea (Chassalia curviflora),31,GVIPCGESCVFIPCISSVVGCSCKNKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HKH3,CYC3_CHACT,Chassatide C3 (Cyclotide chaC3),,Chassalia chartacea (Chassalia curviflora),30,GIPCGESCVWIPCISSALGCSCKNKVCYRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85240,CYVB_VIOBI,Cyclotide vibi-B,,Viola biflora (Yellow wood violet),29,GLPVCGETCFGGTCNTPGCTCSYPICTRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HL28,CYPLB_PSYLE,Cyclotide psyleio B,,Psychotria leiocarpa,29,GDLPICGETCFGGTCNTPGCVCAWPVCNR,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HL31,CYPLE_PSYLE,Cyclotide psyleio E,,Psychotria leiocarpa,30,SVTPIVCGETCFGGTCNTPGCSCSWPICTK,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HL29,CYPLC_PSYLE,Cyclotide psyleio C,,Psychotria leiocarpa,29,GDLPVCGETCFGGTCNTPGCVCAWPVCTR,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HL37,CYGPC_GLOPU,Cyclotide glopa C,,Gloeospermum pauciflorum,31,GDLPICGETCFEGGNCRIPGCTCVWPFCSKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HK36,CYMC2_MELCT,Cyclotide mech-2,,Melicytus chathamicus (Chatham Island mahoe) (Hymenanthera latifolia var. chathamica),29,GLPTCGETCTLGKCNTPKCTCNWPICYKD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HK37,CYMC3_MELCT,Cyclotide mech-3,,Melicytus chathamicus (Chatham Island mahoe) (Hymenanthera latifolia var. chathamica),29,GLPTCGETCTLGKCNTPKCTCNWPICYKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HL22,CYPBC_PSYBR,Cyclotide psybry C,,Psychotria brachyceras,31,GFNPCGETCQIDQTCHAPGCTCSIANICVRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HK32,CYML5_MELLF,Cyclotide mela-5,,Melicytus latifolius (Norfolk Island mahoe) (Hymenanthera latifolia),30,GSAIACGESCFKFKCYTPGCSCSYPICKKD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HL15,CYV2_VIOOD,Cyclotide vodo I2,,Viola odorata (Sweet violet),28,GVFCGELCIKASCSIPGCECIAGLCYKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HLN7,CYHEC_PIGEN,Cyclotide hyen-C,,Pigea enneasperma (Spade flower) (Afrohybanthus enneaspermus),30,GTHPCQETCVTSTRCSTQGCHCNWPICFKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HL14,CYV1_VIOOD,Cyclotide vodo I1,,Viola odorata (Sweet violet),28,GVFCGEACAQASCSIAGCECIAGLCYKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P85242,CYVD_VIOBI,Cyclotide vibi-D,,Viola biflora (Yellow wood violet),29,GLPVCGETCFGGRCNTPGCTCSYPICTRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HL16,CYV3_VIOOD,Cyclotide vodo I3,,Viola odorata (Sweet violet),28,GVFCGEPCIKASCSIPGCECIAGLCYKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HK31,CYML4_MELLF,Cyclotide mela-4,,Melicytus latifolius (Norfolk Island mahoe) (Hymenanthera latifolia),29,GKPICGETCFKGKCYTPGCTCSYPICKKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HK28,CYML1_MELLF,Cyclotide mela-1,,Melicytus latifolius (Norfolk Island mahoe) (Hymenanthera latifolia),29,GKYTCGETCFKGKCYTPGCTCSYPICKKD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HK30,CYML3_MELLF,Cyclotide mela-3,,Melicytus latifolius (Norfolk Island mahoe) (Hymenanthera latifolia),29,GKPICGETCFKGKCYTPGCTCSYPICKKD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HK29,CYML2_MELLF,Cyclotide mela-2,,Melicytus latifolius (Norfolk Island mahoe) (Hymenanthera latifolia),29,GKPTCGETCFKGKCYTPGCTCSYPLCKKD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HK33,CYML6_MELLF,Cyclotide mela-6,,Melicytus latifolius (Norfolk Island mahoe) (Hymenanthera latifolia),29,GLPTCGETCFKGKCYTPGCSCSYPICKKD,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HK34,CYML7_MELLF,Cyclotide mela-7,,Melicytus latifolius (Norfolk Island mahoe) (Hymenanthera latifolia),29,GLPTCGETCFKGKCYTPGCSCSYPICKKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P86900,CYCN_CLITE,Cyclotide cter-N,,Clitoria ternatea (Butterfly pea),29,GSAFCGETCVLGTCYTPDCSCTALVCLKN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+I0B6F5,CYC8_CHACT,Chassatide C8 (Cyclotide chaC8),,Chassalia chartacea (Chassalia curviflora),75,MAKFANYLMLFLLVASLVMLEAQSSDTIKAPDWGKRLLMNHDSDLGAIPCGESCVWIPCISTVIGCSCSNKVCYR,Evidence at protein level,reviewed,3.0,False,Cyclotides
+I0B6G2,CYC13_CHACT,Chassatide C13 (Cyclotide chaC13),,Chassalia chartacea (Chassalia curviflora),77,MAKFATQLLLFVLIASLVMLEVHASNTFQVPDLGKRLLMNRDPNGFPCAESCVYIPCTVTALLGCSCRNRVCYRNEL,Evidence at protein level,reviewed,3.0,False,Cyclotides
+I0B6F4,CYC7_CHACT,Chassatide C7 (Cyclotide chaC7),,Chassalia chartacea (Chassalia curviflora),64,VLVASLVMLEAQSSDTIQVPDWGKRLLMNHDSNRVGIPCGESCVWIPCLTAIAGCSCKNKVCYT,Evidence at protein level,reviewed,3.0,False,Cyclotides
+I0B6F3,CYC4_CHACT,Chassatide C4 (Cyclotide chaC4),,Chassalia chartacea (Chassalia curviflora),78,MAKFATQLFLLTASVVMLEVQSSIVIMQDPDLGRKLIMNPANGASCGETCFTGICFTAGCSCNPWPTCTRNGLNPESI,Evidence at protein level,reviewed,3.0,False,Cyclotides
+C0HKH4,CYC1_CHACT,Chassatide C1 (Cyclotide chaC1),,Chassalia chartacea (Chassalia curviflora),29,GDACGETCFTGICFTAGCSCNPWPTCTRN,Evidence at protein level,reviewed,3.0,False,Cyclotides
+P84647,HYFLA_HYBFL,Cyclotide Hyfl-A,,Hybanthus floribundus (Greenviolet),31,SISCGESCVYIPCTVTALVGCTCKDKVCYLN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKI9,CYMEG_MELDN,Cyclotide mden-G,,Melicytus dentatus (Tree violet),30,GIPCAESCVYIPCITAALGCSCKNKVCYRN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKJ3,CYMEK_MELDN,Cyclotide mden-K,,Melicytus dentatus (Tree violet),31,GSIPCGESCVWIPCISSVVGCACKNKVCYKN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKJ9,CYPLA_PALGU,Cyclotide pali-A,,Palicourea guianensis (Showy cappel),31,GSIPCGESCVFIPCISGLAGCSCKNRVCYLN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKK4,CYVUB_VIOPU,Cyclotide vpub-B,,Viola pubescens (Downy yellow violet),31,GIIPCGESCVFIPCITSVVGCSCKSKVCYKN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+P84648,HYFLB_HYBFL,Cyclotide Hyfl-B,,Hybanthus floribundus (Greenviolet),32,GSPIQCAETCFIGKCYTEELGCTCTAFLCMKN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKI2,CYLRA_LEOTR,Cyclotide ltri-A,,Leonia triandra,28,GVACGESCVYLPCFTVGCTCTSSQCFKN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKI7,CYMEE_MELDN,Cyclotide mden-E,,Melicytus dentatus (Tree violet),30,GIPCGESCVYIPCITAAIGCSCKSKVCYRN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKJ2,CYMEJ_MELDN,Cyclotide mden-J,,Melicytus dentatus (Tree violet),31,GSIPCGESCVYIPCISSIVGCACKSKVCYKN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKJ4,CYMEL_MELDN,Cyclotide mden-L,,Melicytus dentatus (Tree violet),31,GSIPCGESCVYIPCISAVLGCSCKNKVCYRN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKJ5,CYMEM_MELDN,Cyclotide mden-M,,Melicytus dentatus (Tree violet),31,GTIPCGESCVYIPCITSALGCSCKKKVCYKN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKJ6,CYMEN_MELDN,Cyclotide mden-N,,Melicytus dentatus (Tree violet),31,GTIPCGESCVYIPCLTSALGCSCKNKVCYRN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKI6,CYMEC_MELDN,Cyclotide mden-C,,Melicytus dentatus (Tree violet),29,GKPICGETCFKGKCYTPGCTCSYPVCKKN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKI5,CYMEB_MELDN,Cyclotide mden-B,,Melicytus dentatus (Tree violet),29,GLPICGETCFTGKCYTPGCTCSYPICKKN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKJ1,CYMEI_MELDN,Cyclotide mden-I,,Melicytus dentatus (Tree violet),30,GIPCGESCVYIPCITTAIGCSCKNKVCYRN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+P84636,CYVB_VIOCT,Cyclotide vico-B,,Viola cotyledon (Violeta),31,GSIPCAESCVYIPCITGIAGCSCKNKVCYYN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKK3,CYVUA_VIOPU,Cyclotide vpub-A,,Viola pubescens (Downy yellow violet),31,GVIPCGESCVFIPCISAVIGCSCKSKVCYRN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+P84649,HYFLC_HYBFL,Cyclotide Hyfl-C,,Hybanthus floribundus (Greenviolet),32,GSPRQCAETCFIGKCYTEELGCTCTAFLCMKN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKJ0,CYMEH_MELDN,Cyclotide mden-H,,Melicytus dentatus (Tree violet),29,GIPICGETCFFGKCNTPKCTCNKPLCYKN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+P84635,CYVA_VIOCT,Cyclotide vico-A,,Viola cotyledon (Violeta),31,GSIPCAESCVYIPCFTGIAGCSCKNKVCYYN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKK0,CYVIA_VIODI,Cyclotide vdif-A,,Viola diffusa,30,GIPCGESCVFIPCISSVVGCSCKSKVCYRN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKK1,CYVNA_VIOIN,Cyclotide vinc-A,,Viola inconspicua,29,GIPVCGETCTLGTCYTAGCSCSWPVCTRN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKK5,CYVUC_VIOPU,Cyclotide vpub-C,,Viola pubescens (Downy yellow violet),31,GIIPCGESCVFIPCITSIVGCSCKSKVCYKN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKI8,CYMEF_MELDN,Cyclotide mden-F,,Melicytus dentatus (Tree violet),29,GLPICGETCFFGKCNTPKCTCINPICYKN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKJ8,CYMBB_MELOB,Cyclotide mobo-B,,Melicytus obovatus (Hymenanthera obovata),29,GKPICGETCAKGKCYTPKCTCNWPICYKN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKJ7,CYMBA_MELOB,Cyclotide mobo-A,,Melicytus obovatus (Hymenanthera obovata),29,GFPTCGETCTLGTCNTPGCTCSWPICTRN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKI4,CYMEA_MELDN,Cyclotide mden-A,,Melicytus dentatus (Tree violet),29,GIPTCGETCTLGTCNTPGCTCSWPICTKN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKI3,CYMNA_MELAG,Cyclotide mang-A,,Melicytus angustifolius (Hymenanthera angustifolia),29,GFPTCGETCTLGTCNTPGCTCSWPICTRD,Evidence at protein level,reviewed,2.0,False,Cyclotides
+C0HKK2,CYVNB_VIOIN,Cyclotide vinc-B,,Viola inconspicua,31,GSIPACGESCFKGKCYTPGCTCSKYPLCAKN,Evidence at protein level,reviewed,2.0,False,Cyclotides
+B3EWH7,CYCM_PETHY,Acyclotide phyb-M,,Petunia hybrida (Petunia),32,QSISCAESCVWIPCATSLIGCSCVNSRCIYSK,Evidence at protein level,reviewed,3.0,False,Cyclotides
+Q30CA1,Q30CA1_PIGEN,Cyclotide A,,Pigea enneasperma (Spade flower) (Afrohybanthus enneaspermus),33,CGESCVYIPCTVTALLGCSCKDKVCYKNSLAVN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+Q30CA7,Q30CA7_9ROSI,Cyclotide A,,Pigea monopetala,32,CGETCLFIPCIFSVVGCSCSSKVCYRNFLDMN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+Q30CA9,Q30CA9_HYBFL,Cyclotide O,,Hybanthus floribundus subsp. floribundus,31,CGETCVIFPCISAAFGCSCKDTVCYKNSLVN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+Q30CB0,Q30CB0_HYBFL,Cyclotide N,,Hybanthus floribundus subsp. floribundus,31,CGETCVILPCISAALGCSCKDTVCYKNSLVN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+Q30CB6,Q30CB6_HYBFL,Cyclotide H,,Hybanthus floribundus subsp. floribundus,31,CAETCIYIPCFTEAVGCKCKDKVCYKNSLDN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+Q30C98,Q30C98_9ROSI,Cyclotide B,,Hybanthus epacroides,31,CGETCIYIPCFTEAVGCKCKDKVCYKNSLDN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F391,A0A7G5F391_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),100,SVMFTVEAGIPCGESCVFIPCLTTVVGCSCKNKVCYNNHVIAAEANSIDDHHLLCQSHDDCIKKGTGNFCAPFLDHAVQYGWCFRAESEGYLLKDFLKMP,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3A1,A0A7G5F3A1_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),64,LPTCGETCTLGTCYVPDCSCSWPICMKNHIIAANAKTVNEHRLLCTSHEDCFKKGTGNYCASFP,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3B0,A0A7G5F3B0_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),99,EAGISCGESCVFIPCITGIAGCSCKNKVCYLNHVIAAEAKTMDEHHLLCQSHEDCIKKGTGNFCAPFLEHNVNYGWCFNAQSEGYLLKDFLKIPKTITN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3C4,A0A7G5F3C4_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),99,ITESGSPCGESCVFIPCISTVIGCSCKNKVCYRNHIIAAEAKTMDEHILLCQSHEDCIAKGTGNFCAPFPDQDIKYGWCFRAESEGFMLKDHLKMSITN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3C5,A0A7G5F3C5_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),99,ITESGSPCGESCVFIPCISTVIGCSCKNKVCYRNHIIAAEAKTMDEHILLCQSHEDCIAKGTGNFCAPFPDQDIKYGWCFRAESEGFLLKDHLKMSITN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F399,A0A7G5F399_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),74,KIEGGDPLACGETCFGGTCYTPGCVCDPWPICTKNHIIASTAKTVDQHRLLCESHEDCLKKGTGNYGASFPDSD,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3C6,A0A7G5F3C6_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),60,MAFARLAVIFFLAASVMFTVKETEAGIPCGESCVYIPCTVTALLGCSCKNKVCFRNHVIA,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3F1,A0A7G5F3F1_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),88,VMFAVKETQAGVPCGESCVYIPCTVTALLGCSCKNKVCYRNHVIAAEASTVDDHHLLCQSHEDCFKKGSGNFCAPFLGHDVKYGWCFQ,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3C7,A0A7G5F3C7_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),84,MAYIRLASLVVLFFFAASVEKIEADTIPCGESCVWIPCISSILGCSCKDKVCYHNHVIAASSKSIDEHHLLCQSHYDCITKGSG,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3A2,A0A7G5F3A2_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),83,LPTCGETCTLGTCYVPDCSCSWPICMKNHIIAANAKTVNEHRLLCTSHEDCFKKGTGNYCASFPDSNIHFGWCFHAESEGYLL,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3E8,A0A7G5F3E8_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),70,MFTVEAGIPCGESCVFIPCISSVVGCSCKSKVCYNNHVIAAEANSVDDHHLLCQSHDDCIKKGTGNFCAP,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3F0,A0A7G5F3F0_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),88,MFAVKATEVGIPCVESCVFIPCTVTALLGCSCKDKVCYKNHVIAAEANTVNDHHLLCQSHEDCFKKGTGNFCAPFLKHDVKYGWCFRA,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3F3,A0A7G5F3F3_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),85,VMFAVKETQAGVPCGESCVYIPCTVTALLGCSCKNKVCYRNHVIAAEASTVDDHHLLCQSHEDCFKKGTGNFCAPFLEHDVKYRS,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3D8,A0A7G5F3D8_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),96,MASVRFGPLVVLCFLATSVMLSVKEAEAGIPCGESCVFIPCTITALLGCSCKDKVCYKNHVIASEAKTMDDHHLLCQSHEDCFRTGPGNFCAPFLN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3B1,A0A7G5F3B1_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),89,ESCVWIPCLTGYFGCYCQSKVCYHNSHIASTAKTMNDHHLLCQSHEDCVTKGSGNFCAHFPDHDIHYGWCFRAESEGFPLKDFMKMPKL,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3C1,A0A7G5F3C1_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),87,SDLVTLPIKWYPAPQNLTVRKEIKNNMASFRFAPLALVLIFATCVMFAVDNTEAGSVIGCGETCLRGRCYTPGCTCDHGICKKNHIV,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3B2,A0A7G5F3B2_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),68,MASLRIAPFAVFLFLAASVIFAVEKTQACVIPCGESRVFIPCITGAIGCSCKSKVCYRNHVIAAEAKT,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F395,A0A7G5F395_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),88,LKKTEGCLPICGETCFKTKCYTKGCSCSYPICKKNHIIAIEAKTVDEHRLLCESYEDCFKKGTGNYCASFPDSNIHFGWCFHAESEGY,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3A4,A0A7G5F3A4_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),91,SCVWIPCITGAIGCSCKNRVCYRNHVIASEAKTMDDLHLLCQSHDDCITKGSGNFCAPFLEHDVPYGWCFRAESEGYLLKDFLKKPVKIVI,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3D6,A0A7G5F3D6_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),90,MAYLRLVPLLVLFFFAASVNKTEAGGTACGESCIYLPCISGVFEGCSCQNKACYKNHVIAATSKSIDEHHLLCQSHEDCIIKGTGNFCAP,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3E2,A0A7G5F3E2_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),71,MFAVEKTKADLQCAETCVHSPCIGPCYCKHGVICYKNHVIAAAAKSVNDYYLLCQSHEDCIIKGSGNFCAP,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+Q30CA6,Q30CA6_9ROSI,Cyclotide B,,Pigea monopetala,35,CGETCVTGTCYTPGCACDWPVCKRDALPIEPVKAF,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F394,A0A7G5F394_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),74,FKTKCYTPGCSCSYPVCKRNHIIALEAKTVDEHRLLCESHEDCFKKGTGNYCASFPDSDIHFGWCFYAESEGYL,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A7G5F3F7,A0A7G5F3F7_CLITE,Cyclotide,,Clitoria ternatea (Butterfly pea),85,ALPISTIVGCSCKSNVCYSNHVIAATAKSLDEHRLLCQSHEDCFVKGTGNFCAHFPEGDVAYGWCFHAESEGYLLKDFLKMPKDT,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+Q30C64,Q30C64_HYBFL,Cyclotide E,,Hybanthus floribundus subsp. floribundus,86,AAFALPALASFEKDVITPRGLEEDTMSALVKTKTLISDTVFDILLKNYHTNGGEIPCGESCVYLPCFLPNCYCRNHVCYLNSLVGN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+Q30C99,Q30C99_9ROSI,Cyclotide A,,Hybanthus epacroides,30,CGETCVVLPCFIVPGCSCKSSVCYFNSLDN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+Q30CB4,Q30CB4_HYBFL,Cyclotide J,,Hybanthus floribundus subsp. floribundus,90,AAFALPALASFEKDIITPKAIQHLKADGDALNAILKTKTLISDTVYEALVLKNSHVNGIACGESCAYFGCWIPGCSCRNKVCYFNSLDEN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+Q30CA2,Q30CA2_9ROSI,Cyclotide A,,Hybanthus debilissimus,28,CVWIPCISAAIGCSCKSKVCYRNSLDLN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+Q30CA5,Q30CA5_9ROSI,Cyclotide A,,Pigea stellarioides,31,CGETCIWGRCYSENIGCHCGFGICTLNSLDN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+Q30CA3,Q30CA3_9ROSI,Cyclotide A,,Hybanthus calycinus,30,CGETCVVDTRCYTKKCSCAWPVCMRNSLAG,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A9P3Q7,A9P3Q7_MELRA,Cyclotide protein Mra21,,Melicytus ramiflorus (Whitey wood),92,YKNSLALPTLEKDVITPEALEAVLKSNGGAIVNIKTIVSNTIFEEALLNNANHGLGGTIPCGESCVFIPCLTSAIGCSCKSKVCYKNSLALN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A9P3R6,A9P3R6_MELRA,Cyclotide protein Mra23,,Melicytus ramiflorus (Whitey wood),95,LATFEKDVITAETIQAVIKRTAPLSNIMLEGDAINALLTSKTVISKTVLEEAFLKTDATNGVIPCGESCVFIPCISSVLGCSCKNKVCYRNSLVN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+M9SZP2,M9SZP2_VIOOD,Cyclotide B,vocB,Viola odorata (Sweet violet),79,AILRSVPLSNIMLEEDVINALLKSKTVISNPIIEEAFLKNSHGLNGIPCGESCVWIPCISSAIGCSCKSKVCYRKSLDN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+F8W671,F8W671_CLITE,Cyclotide Cter M,,Clitoria ternatea (Butterfly pea),29,GLPTCGETCTLGTCYVPDCSCSWPICMKN,Evidence at protein level,unreviewed,1.0,False,Cyclotides
+A9P3Q6,A9P3Q6_MELRA,Cyclotide protein Mra20,,Melicytus ramiflorus (Whitey wood),94,VCYKNSLALPTLEKDVITPEALEAVLKSNGGATVNIKTIVSNTIFEEALLNNANHGLGGTIPCGESCVFIPCLTSAIGCSCKSKVCYKNSLALN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A9P3R5,A9P3R5_MELRA,Cyclotide protein Mra22,,Melicytus ramiflorus (Whitey wood),98,LATFERDVITPETVHAILKKTNSNSNIMLHEDAIQALTGKTLISKTVLEEALLKNAENGLVGSGVPCGESCVWIPCLTSIVGCSCKNNVCTLNSLAQN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A9P3R3,A9P3R3_MELRA,Cyclotide protein Mra25,,Melicytus ramiflorus (Whitey wood),94,FAAYEIKDVISRNAVEGVLKKRVGFLSEEAINELAQGKTIISNPVLEEALVMYAKSKGLGGSAILCGESCTLGECYTPGCTCSWPICTKNSLDA,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+I0B6F8,I0B6F8_CHACT,Cyclotide chassatide C15,,Chassalia chartacea (Chassalia curviflora),77,MAKFATQLLLFVLVASLVMLEVHAFNTFQVPDLGKRLLMNRDPNGIPCAESCVYIPCTITALLGCSCKDKVCYKNEL,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+I0B6G1,I0B6G1_CHACT,Cyclotide chassatide C18,,Chassalia chartacea (Chassalia curviflora),78,MAKFANYLTLFLLVASLVMMEVHSSSSTEVPDQGRRLLMNPDSNGIPCGESCVFIPCISALLGCSCSNKVCYNNRTKS,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A9P3S2,A9P3S2_MELRA,Cyclotide protein Mra13,,Melicytus ramiflorus (Whitey wood),100,MLVGVVLIATFATAAFAALDKDAITPGAIHALSKSMKLPTDAVNVLTKSKTLVSPTKLAEEFLNDANDGVNGIPCGESCVYLPCFTTIIGCKCQGKVCYH,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A9P3R4,A9P3R4_MELRA,Cyclotide protein Mra24,,Melicytus ramiflorus (Whitey wood),93,LAAYEIKDVISRNAIEGVLKKRVGFLSEEAINGLALGKTIISNPVLEEALVMYAKSEGLGGHPTCGETCLLGTCYTPGCTCKRPVCYKNSLDA,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+Q30C63,Q30C63_HYBFL,Cyclotide F,,Hybanthus floribundus subsp. floribundus,35,SISCGETCTTFNCWIPNCKCNHHDKVCYWNSLDEN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+Q30CA8,Q30CA8_HYBFL,Cyclotide P,,Hybanthus floribundus subsp. floribundus,27,CVWIPCISGIAGCSCKNKVCYLNSLDN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+Q30CB7,Q30CB7_HYBFL,Cyclotide G,,Hybanthus floribundus subsp. floribundus,30,CAETCVVLPCFIVPGCSCKSSVCYFNSLDN,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+I0B6G4,I0B6G4_CHACT,Cyclotide chassatide C16,,Chassalia chartacea (Chassalia curviflora),77,MAKFATQLLLFVLIASLVMLEVHAVNTFQVPDLGKRLLMNRDPNGVPCAESCVYIPCTITALFGCSCKDKVCYNNEL,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+I0B6F7,I0B6F7_CHACT,Cyclotide chassatide C14,,Chassalia chartacea (Chassalia curviflora),77,MAKFATQLLLFVLIASLVMLEVHASNTFQVPDLGKRLLMNRDPNGIPCAESCVYIPCTITALFGCSCKDKVCYNNEL,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+I0B6G0,I0B6G0_CHACT,Cyclotide chassatide C17,,Chassalia chartacea (Chassalia curviflora),75,MAKFANYLMLFLLVASLVMLEAQSSDTLKVPDLGKRLLMNHDSNRVGIPCGESCVYIPCISAVLGCSCQNKVCYR,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+B6E616,B6E616_MELRA,Cyclotide protein Mra13,,Melicytus ramiflorus (Whitey wood),99,MLVGVVLIATFATAAFAALDKDAITPGAIHALSKSMKLPTDAVNVLTKSKTLVSPTKLAEEFLNDANDGVNGIPCGESCVYLPCFTTIIGCKCQGKVCY,Inferred from homology,unreviewed,1.0,False,Cyclotides
+A9P3R7,A9P3R7_MELRA,Cyclotide protein Mra26,,Melicytus ramiflorus (Whitey wood),93,LAAYEIKDVISRNAIEGVLKKRVGFLSEEAINELGQGKTIISNPVLEEALVMYAKSKGLGGHPICGETCVGNKCYTPGCTCTWPVCYRNSLYA,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+S5CTC2,S5CTC2_CARIP,Caripe 2 cyclotide,,Carapichea ipecacuanha (Ipecac) (Callicocca ipecacuanha),82,AKFANYLMLFLLMASPVMLEAQYSSNGIQVPDLGRRLLMNPDHNGIPCGESCVFIRCTITALLGCSCSNNVCYKNGLAPESI,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+S5CLG2,S5CLG2_CARIP,Caripe 2 cyclotide,,Carapichea ipecacuanha (Ipecac) (Callicocca ipecacuanha),79,AKFANYLMLFLLMASPVMLEAQYSSNGIQVPDLGRRLLMNPDHNGIPCGESCVFIRCTITALLGCSCSNNVCYKNGLTP,Evidence at transcript level,unreviewed,1.0,False,Cyclotides
+A0A8I3AZW0,A0A8I3AZW0_9ROSI,Acyclotide ribe 31,,Rinorea bengalensis,29,AIPCGESCVYIPCISVVIGCSCRNKVCYR,Evidence at protein level,unreviewed,1.0,False,Cyclotides

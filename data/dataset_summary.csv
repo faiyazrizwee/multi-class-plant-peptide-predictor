@@ -1,0 +1,10 @@
+Family,Original sequences,Selected sequences,Training sequences,Testing sequences
+CLE,1200,500,400,100
+Cyclotides,265,265,212,53
+Defensins,1737,500,400,99
+LTPs,861,500,400,99
+PSKs,1813,500,400,100
+RALFs,548,500,401,99
+Snakins,616,616,437,179
+Thionins,752,500,400,100
+Other,1936,500,400,100

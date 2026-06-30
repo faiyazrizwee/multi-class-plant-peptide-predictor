@@ -1,0 +1,17 @@
+Best Model: LightGBM
+
+              precision    recall  f1-score   support
+
+         CLE       0.86      0.98      0.92       100
+  Cyclotides       0.96      0.47      0.63        53
+   Defensins       0.71      0.81      0.75        99
+        LTPs       0.90      0.84      0.87        99
+       Other       0.85      0.98      0.91       100
+        PSKs       0.97      0.98      0.98       100
+       RALFs       0.84      0.86      0.85        99
+     Snakins       0.98      0.98      0.98       179
+    Thionins       0.80      0.71      0.75       100
+
+    accuracy                           0.88       929
+   macro avg       0.88      0.84      0.85       929
+weighted avg       0.88      0.88      0.87       929
