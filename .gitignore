@@ -1,4 +1,6 @@
 data/
+logs/
+catboost_info/
 protein-matching-IPR005535.tsv
 temp_snakin_clstr.fasta
 temp_snakin_clstr.fasta.clstr
